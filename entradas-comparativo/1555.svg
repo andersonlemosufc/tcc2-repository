@@ -1,0 +1,298 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN" "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="488" x="5" y="5" height="365" id="/Users/rzepa/downloads/2+2E" >
+ <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <rect width="438" x="50" y="5" height="16" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <text x="269" y="20" style="fill:rgb(0,0,0);stroke-width:0;font-size:14;font-style:normal;font-weight:700;font-family:Lucida Grande;" text-anchor="middle" >Relative Energy along IRC</text>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <rect width="302" x="37" y="-1" height="44" transform="matrix(6.12323e-17,-1,1,6.12323e-17,6,364)" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+   </g>
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="188" y="11" transform="matrix(6.12323e-17,-1,1,6.12323e-17,6,364)" style="fill:rgb(0,0,0);stroke-width:0;font-size:12;font-style:normal;font-weight:700;font-family:Lucida Grande;" text-anchor="middle" >kcal/mol</text>
+   </g>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="323" y2="323" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-2" y="-36" transform="translate(23,363)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-50</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="294" y2="294" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-2" y="-33" transform="translate(23,331)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-40</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="265" y2="265" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-2" y="-30" transform="translate(23,298)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-30</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="236" y2="236" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-2" y="-27" transform="translate(23,266)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-20</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="206" y2="206" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-2" y="-23" transform="translate(23,233)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-10</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="177" y2="177" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-20" transform="translate(35,201)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >0</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="148" y2="148" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-17" transform="translate(29,168)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >10</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="119" y2="119" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-14" transform="translate(29,136)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >20</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="89" y2="89" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-10" transform="translate(29,103)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >30</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="60" y2="60" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-7" transform="translate(29,71)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >40</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="31" y2="31" x1="47" x2="40" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-3" y="-4" transform="translate(29,38)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >50</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="31" y2="323" x1="47" x2="47" />
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <rect width="437" x="-6" y="-36" height="37" transform="translate(57,364)" style="stroke:rgb(0,0,0);stroke-width:0;fill:none;" />
+   </g>
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="212" transform="translate(57,364)" style="fill:rgb(0,0,0);stroke-width:0;font-size:12;font-style:normal;font-weight:700;font-family:Lucida Grande;" text-anchor="middle" >Intrinsic Reaction Coordinate</text>
+   </g>
+  </g>
+  <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="53" x2="53" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-6" y="-39" transform="translate(57,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >4</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="124" x2="124" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-14" y="-39" transform="translate(136,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >2</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="195" x2="195" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-21" y="-39" transform="translate(215,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >0</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="267" x2="267" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-29" y="-39" transform="translate(292,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-2</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="338" x2="338" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-37" y="-39" transform="translate(371,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-4</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="410" x2="410" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-45" y="-39" transform="translate(450,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-6</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="337" x1="481" x2="481" />
+   <g style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" >
+    <text x="-53" y="-39" transform="translate(529,386)" style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Lucida Grande;" >-8</text>
+   </g>
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="71" x2="71" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="335" x1="89" x2="89" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="106" x2="106" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="142" x2="142" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="160" x2="160" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="178" x2="178" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="213" x2="213" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="231" x2="231" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="249" x2="249" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="284" x2="284" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="302" x2="302" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="320" x2="320" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="356" x2="356" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="374" x2="374" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="392" x2="392" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="428" x2="428" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="445" x2="445" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="333" x1="463" x2="463" />
+   <line style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" y1="329" y2="329" x1="53" x2="481" />
+  </g>
+  <rect width="437" x="50" y="26" height="301" style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="53" x2="53" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="124" x2="124" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="196" x2="196" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="267" x2="267" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="338" x2="338" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="410" x2="410" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="26" y2="327" x1="481" x2="481" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="323" y2="323" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="294" y2="294" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="265" y2="265" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="235" y2="235" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="206" y2="206" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="177" y2="177" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="148" y2="148" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="119" y2="119" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="89" y2="89" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="60" y2="60" x1="50" x2="487" />
+  <line style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" y1="31" y2="31" x1="50" x2="487" />
+  <g style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" >
+   <polyline points="445 310 443 310 440 310 438 310 435 310 433 310 430 310 428 310 425 309 423 309 420 309 418 308 415 308 413 307 410 307 408 306 405 306 403 305 400 305 398 304 395 303 393 302 390 302 388 301 385 300 383 299 380 298 378 297 375 296 373 294 370 293 368 292 365 291 363 289 360 288 358 286 355 285 353 283 350 282 348 280 345 278 343 277 340 275 338 273 335 271 333 269 330 267 328 265 325 263 323 261 320 258 318 256 315 254 313 251 310 249 308 246 305 244 303 241 300 238 298 235 296 233 293 230 291 227 288 224 286 221 283 217 281 214 278 211 276 207 273 204 271 200 268 197 266 193 263 189 261 185 258 180 256 176 253 171 251 166 248 161 246 155 243 149 241 142 238 136 236 129 233 122 231 116 228 109 226 103 223 96 221 90 218 84 216 77 213 71 211 66 208 60 206 56 203 52 201 50 198 48 196 48 193 48 191 50 188 52 186 55 183 59 181 64 178 69 176 74 173 80 171 85 168 91 166 96 163 101 161 106 158 111 156 116 153 120 151 125 148 129 146 133 143 136 141 140 138 143 136 147 133 150 131 153 128 155 126 158 123 160 121 163 118 165 116 167 113 169 111 170 108 172 106 173 103 174 101 175 98 176 96 176 93 177 91 177 88 178 86 178 83 178 81 178 78 178 76 178 73 178" style="stroke:rgb(0,0,0);stroke-width:0.9;fill:none;" />
+  </g>
+  <g style="stroke:rgb(192,192,192);stroke-width:0.9;fill:none;" >
+   <circle cx="445.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="443.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="440.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="438.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="435.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="433.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="430.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="428.5" cy="310.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="425.5" cy="309.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="423.5" cy="309.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="420.5" cy="309.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="418.5" cy="308.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="415.5" cy="308.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="413.5" cy="307.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="410.5" cy="307.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="408.5" cy="306.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="405.5" cy="306.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="403.5" cy="305.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="400.5" cy="305.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="398.5" cy="304.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="395.5" cy="303.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="393.5" cy="302.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="390.5" cy="302.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="388.5" cy="301.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="385.5" cy="300.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="383.5" cy="299.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="380.5" cy="298.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="378.5" cy="297.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="375.5" cy="296.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="373.5" cy="294.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="370.5" cy="293.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="368.5" cy="292.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="365.5" cy="291.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="363.5" cy="289.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="360.5" cy="288.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="358.5" cy="286.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="355.5" cy="285.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="353.5" cy="283.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="350.5" cy="282.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="348.5" cy="280.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="345.5" cy="278.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="343.5" cy="277.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="340.5" cy="275.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="338.5" cy="273.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="335.5" cy="271.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="333.5" cy="269.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="330.5" cy="267.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="328.5" cy="265.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="325.5" cy="263.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="323.5" cy="261.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="320.5" cy="258.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="318.5" cy="256.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="315.5" cy="254.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="313.5" cy="251.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="310.5" cy="249.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="308.5" cy="246.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="305.5" cy="244.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="303.5" cy="241.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="300.5" cy="238.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="298.5" cy="235.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="296.5" cy="233.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="293.5" cy="230.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="291.5" cy="227.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="288.5" cy="224.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="286.5" cy="221.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="283.5" cy="217.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="281.5" cy="214.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="278.5" cy="211.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="276.5" cy="207.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="273.5" cy="204.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="271.5" cy="200.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="268.5" cy="197.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="266.5" cy="193.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="263.5" cy="189.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="261.5" cy="185.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="258.5" cy="180.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="256.5" cy="176.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="253.5" cy="171.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="251.5" cy="166.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="248.5" cy="161.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="246.5" cy="155.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="243.5" cy="149.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="241.5" cy="142.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="238.5" cy="136.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="236.5" cy="129.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="233.5" cy="122.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="231.5" cy="116.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="228.5" cy="109.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="226.5" cy="103.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="223.5" cy="96.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="221.5" cy="90.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="218.5" cy="84.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="216.5" cy="77.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="213.5" cy="71.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="211.5" cy="66.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="208.5" cy="60.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="206.5" cy="56.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="203.5" cy="52.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="201.5" cy="50.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="198.5" cy="48.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="196.5" cy="48.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="193.5" cy="48.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="191.5" cy="50.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="188.5" cy="52.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="186.5" cy="55.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="183.5" cy="59.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="181.5" cy="64.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="178.5" cy="69.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="176.5" cy="74.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="173.5" cy="80.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="171.5" cy="85.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="168.5" cy="91.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="166.5" cy="96.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="163.5" cy="101.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="161.5" cy="106.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="158.5" cy="111.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="156.5" cy="116.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="153.5" cy="120.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="151.5" cy="125.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="148.5" cy="129.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="146.5" cy="133.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="143.5" cy="136.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="141.5" cy="140.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="138.5" cy="143.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="136.5" cy="147.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="133.5" cy="150.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="131.5" cy="153.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="128.5" cy="155.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="126.5" cy="158.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="123.5" cy="160.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="121.5" cy="163.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="118.5" cy="165.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="116.5" cy="167.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="113.5" cy="169.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="111.5" cy="170.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="108.5" cy="172.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="106.5" cy="173.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="103.5" cy="174.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="101.5" cy="175.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="98.5" cy="176.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="96.5" cy="176.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="93.5" cy="177.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="91.5" cy="177.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="88.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="86.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="83.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="81.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="78.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="76.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+   <circle cx="73.5" cy="178.5" style="stroke:rgb(0,0,255);stroke-width:0.9;fill:rgb(192,192,192);" r="2.5" />
+  </g>
+ </g>
+</svg>

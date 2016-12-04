@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6250px" height="7834px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4596 5762"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:38.3015}
+    .fil0 {fill:#A02746}
+    .fil1 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_135724464">
+   <path class="fil0" d="M345 0l3907 0c190,0 344,152 344,340l0 5082c0,187 -154,340 -344,340l-3907 0c-191,0 -345,-153 -345,-340l0 -5082c0,-188 154,-340 345,-340z"/>
+   <path class="fil0 str0" d="M467 138l3663 0c178,0 323,145 323,324l0 4838c0,178 -145,323 -323,323l-3663 0c-179,0 -323,-145 -323,-323l0 -4838c0,-179 144,-324 323,-324z"/>
+  </g>
+  <g id="_135727184">
+   <path class="fil1" d="M4003 2541c17,19 28,44 28,71l0 1361c0,68 -22,132 -58,185l-842 -635c-19,-14 -46,-11 -60,8l-4 5c-14,19 -11,46 8,60l837 631c-58,48 -132,77 -213,77l-2801 0c-76,0 -147,-26 -203,-69l848 -639c19,-14 23,-41 8,-60l-3 -5c-15,-19 -42,-22 -60,-8l-858 646c-40,-55 -64,-123 -64,-196l0 -1361c0,-27 10,-52 27,-71l1437 967c147,99 380,105 517,13l1456 -980 0 0z"/>
+   <path class="fil1" d="M1935 3038l727 0c23,0 42,19 42,42l0 7c0,23 -19,43 -42,43l-727 0c-24,0 -43,-20 -43,-43l0 -7c0,-23 19,-42 43,-42z"/>
+   <path class="fil1" d="M1935 2799l727 0c23,0 42,19 42,42l0 7c0,23 -19,42 -42,42l-727 0c-24,0 -43,-19 -43,-42l0 -7c0,-23 19,-42 43,-42z"/>
+   <path class="fil1" d="M1935 2559l727 0c23,0 42,20 42,43l0 7c0,23 -19,42 -42,42l-727 0c-24,0 -43,-19 -43,-42l0 -7c0,-23 19,-43 43,-43z"/>
+   <path class="fil1" d="M729 2412l1321 -889c136,-92 369,-86 516,13l1302 876 -453 341 0 -244c0,-102 -83,-185 -184,-185l-1866 0c-101,0 -184,83 -184,185l0 244 -452 -341 0 0z"/>
+  </g>
+ </g>
+</svg>

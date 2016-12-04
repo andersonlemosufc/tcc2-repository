@@ -1,0 +1,75 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6305" height="4070" >
+<path id="handlebar" fill="none" stroke="#939598" stroke-width="125.5" d="m4166,881 c 0,0 -0.1,0.14 -68.5,-163.9 -44.6,-106.81 39.5,-168.04 101.6,-208.63 62.2,-40.62 158.6,-74.28 115.2,-228.31 C 4266.2,108.89 3999.5,126.22 3882.6,115.5"/>
+<path id="handle" d="M3842.1,191.6l-403.6-29.8c-30.8-2.3-54-29.1-51.7-60l3.7-50.6c2.3-30.8,29.1-54,60-51.7l403.6,29.8 c30.8,2.3,54,29.1,51.7,60l-3.7,50.6C3899.8,170.8,3873,193.9,3842.1,191.6z"/>
+<line id="seat_post" stroke="#939598" stroke-width="128" x1="2220.9" y1="1288" x2="2025" y2="792.1"/>
+<path id="seat" d="M2452,852c0,0-247,79-614,84c0,0-185,16-240-131c-7-117,73-161,147-157c97,5,300,56,398,53s371-13,381,59 C2533,801,2452,852,2452,852z"/>
+<path id="pedal_l" d="M2836.8,2504.5h-321.3c-29.5,0-53.4-23.9-53.4-53.4v-67.5c0-29.5,23.9-53.4,53.4-53.4h321.3 c29.5,0,53.4,23.9,53.4,53.4v67.5C2890.2,2480.5,2866.3,2504.5,2836.8,2504.5z"/>
+<g id="rear_tire">
+	<g id="rear_spokes">
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1340" y2="1938.1"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1696.9" y2="2074.5"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1965" y2="2328"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="2119.2" y2="2666.5"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="2119.2" y2="3048"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1996.3" y2="3403.6"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1740.7" y2="3674"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="1373" y2="3833.9"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="995.5" y2="3835.2"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="658" y2="3698.9"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="382.2" y2="3428.8"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="235.2" y2="3076.6"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="232.7" y2="2714.9"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="374.2" y2="2361.2"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="637.6" y2="2092.7"/>
+		<line stroke="#000" stroke-width="33" x1="1181" y1="2889" x2="962.9" y2="1949.8"/>
+	</g>
+	<circle fill="none" stroke="#000" stroke-width="182" cx="1181" cy="2889" r="1084"/>
+	<circle fill="#939598" cx="1181" cy="2889" r="238"/>
+	<circle fill="none" stroke="#939598" stroke-width="104" cx="1181" cy="2889" r="964"/>
+	<circle fill="#6D6E71" cx="1181" cy="2889" r="159"/>
+</g>
+<g id="front_tire">
+	<g id="front_spokes">
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4521.9" y2="2133.7"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4845.3" y2="1965"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5228.7" y2="1931"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5601.1" y2="2052.8"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5882.8" y2="2298.2"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="6049.9" y2="2630.3"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="6049.9" y2="3010"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5959.8" y2="3364.4"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5724" y2="3641.2"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5382.2" y2="3817.2"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="5014.6" y2="3847.2"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4670.3" y2="3741.4"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4376.8" y2="3501.8"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4199.9" y2="3174.2"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4161.3" y2="2797.7"/>
+		<line stroke="#000" stroke-width="33" x1="5121" y1="2889" x2="4270.5" y2="2434.7"/>
+	</g>
+	<circle fill="none" stroke="#000" stroke-width="182" cx="5121" cy="2889" r="1084"/>
+	<circle fill="none" stroke="#939598" stroke-width="104" cx="5121" cy="2889" r="964"/>
+	<circle fill="#939598" cx="5121" cy="2889" r="238"/>
+	<circle fill="#6D6E71" cx="5121" cy="2889" r="159"/>
+</g>
+<g id="frame">
+	<path fill="#ED1C24" d="M4248.9,946.4l-88.9,37.4c-37,15.6-79.6-1.8-95.2-38.8l-16-38c-15.6-37,1.8-79.6,38.8-95.2l88.9-37.4
+		c37-15.6,79.6,1.8,95.2,38.8l16,38C4303.3,888.2,4285.9,930.8,4248.9,946.4z"/>
+	<path fill="#ED1C24" d="M2292.4,1360l-82,29c-36,12.7-75.5-6.1-88.2-42.1l-15.6-44.2c-12.7-36,6.1-75.5,42.1-88.2l82-29 c36-12.7,75.5,6.1,88.2,42.1l15.6,44.2C2347.3,1307.8,2328.4,1347.3,2292.4,1360z"/>
+		<line fill="none" stroke="#ED1C24" stroke-width="158" stroke-linecap="round" stroke-linejoin="round" x1="4164" y1="879.3" x2="5121" y2="2889"/>
+	<polygon fill="none" stroke="#ED1C24" stroke-width="146" stroke-linejoin="round" points="4340.7,1250 2328.6,1567.1 1181,2889 2925.6,2970.9 4417,1396"/>
+		<line fill="none" stroke="#ED1C24" stroke-width="146" stroke-linejoin="round" x1="2215.8" y1="1289.5" x2="2888" y2="2970.9"/>
+</g>
+<g id="pedal_gear">
+	<circle fill="none" stroke="#58595B" stroke-width="72" cx="2881" cy="2970.9" r="324.6"/>
+	<circle fill="none" stroke="#808285" stroke-width="47" cx="2881" cy="2970.9" r="282.8"/>
+	<circle fill="#58595B" cx="2881" cy="2970.9" r="129.6"/>
+	<line stroke="#58595B" stroke-width="64" x1="2881" y1="2970.9" x2="2770.6" y2="3295.6"/>
+	<line stroke="#58595B" stroke-width="64" x1="2881" y1="2970.9" x2="3152.5" y2="3174.2"/>
+	<line stroke="#58595B" stroke-width="64" x1="2881" y1="2970.9" x2="2795.4" y2="2657.7"/>
+	<line stroke="#58595B" stroke-width="64" x1="2881" y1="2970.9" x2="3143" y2="2789"/>
+	<line stroke="#58595B" stroke-width="64" x1="2881" y1="2970.9" x2="2556.6" y2="2957.8"/>
+</g>
+<line stroke="#808285" stroke-width="100" stroke-linecap="round" x1="2881" y1="2970.9" x2="3085.8" y2="3524.5"/>
+<path id="pedal_r" d="M3233.7,3611.7h-321.3c-29.5,0-53.4-23.9-53.4-53.4v-67.5c0-29.5,23.9-53.4,53.4-53.4h321.3 c29.5,0,53.4,23.9,53.4,53.4v67.5C3287.1,3587.8,3263.2,3611.7,3233.7,3611.7z"/>
+</svg>

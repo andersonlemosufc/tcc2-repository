@@ -1,0 +1,26 @@
+<?xml version="1.0"?><svg width="5000" height="5000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Flower1</title>
+ <defs>
+  <linearGradient id="linearGradient2935">
+   <stop stop-color="#ffffff" offset="0" id="stop2937"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop2939"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2109">
+   <stop stop-color="#ffd200" offset="0" id="stop2111"/>
+   <stop stop-color="#ffdc00" offset="0.3" id="stop2117"/>
+   <stop stop-color="#ffaa00" offset="0.501802" id="stop2135"/>
+   <stop stop-color="#ff7f00" offset="0.654403" id="stop3703"/>
+   <stop stop-color="#ff5500" offset="1" id="stop2113"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient2109" r="450.93457" id="radialGradient2115" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.13492140173912048,-4.2253522872924805,4.084823131561279,0.1304340958595276,2190.059326171875,3099.38720703125)" fy="56.507415" fx="137.01783" cy="56.507415" cx="137.01783"/>
+  <radialGradient xlink:href="#linearGradient2935" r="52.140759" id="radialGradient2943" gradientUnits="userSpaceOnUse" gradientTransform="matrix(14.128485679626465,0,0,11.535011291503906,-1822.119873046875,-547.67138671875)" fy="225.85587" fx="266.05066" cy="226.78403" cx="266.42532"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.436926" stroke="#aa5500" fill-rule="evenodd" fill="url(#radialGradient2115)" id="path1317" d="m3829.520752,1610.420654c1341.620361,-891.877869 -1571.999023,-2240.600952 -1481.834229,-632.104675c155.967285,2782.385681 -915.213379,1056.272644 1581.239746,2294.705994c1443.199219,715.937988 1154.41748,-2481.691772 -193.498535,-1599.358643c-2331.632813,1526.264404 -1372.365479,-264.461548 -1196.653564,2516.746826c101.578857,1607.815918 2726.416748,-241.090576 1288.335938,-967.253906c-2487.600586,-1256.121094 -457.152344,-1320.734131 -2777.893677,222.041016c-1341.619751,891.87793 1571.999146,2240.600586 1481.834351,632.104736c-155.967529,-2782.38562 915.213135,-1056.272949 -1581.239807,-2294.705933c-1443.198822,-715.937866 -1154.417618,2481.691528 193.498474,1599.358276c2331.63269,-1526.26416 1372.365601,264.46167 1196.653687,-2516.746643c-101.578857,-1607.815674 -2726.416962,241.090881 -1288.335938,967.253967c2487.600342,1256.12085 457.152344,1320.734131 2777.893555,-222.041016z"/>
+   <path stroke-opacity="0.431373" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.79346" stroke="#aa5500" fill-rule="evenodd" fill="#ffff78" id="path2119" d="m3026.559082,2527.809082a587.190002,587.190002 0 1 1 -1174.380615,0a587.190002,587.190002 0 1 1 1174.380615,0z"/>
+   <path stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.79346" fill-rule="evenodd" fill="url(#radialGradient2943)" id="path2161" d="m1860.274048,2624.961182a587.190002,587.190002 0 0 1 833.291626,-626.468506l-254.197754,529.319092l-579.093872,97.149414z"/>
+  </g>
+ </g>
+</svg>

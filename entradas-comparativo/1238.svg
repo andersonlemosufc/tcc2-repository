@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1367.9437mm"
+   height="1367.9437mm"
+   viewBox="0 0 4847.0447 4847.0447"
+   id="svg3381"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="50Year.svg">
+  <defs
+     id="defs3383">
+    <linearGradient
+       id="linearGradient4222"
+       inkscape:collect="always">
+      <stop
+         id="stop4224"
+         offset="0"
+         style="stop-color:#fcdc38;stop-opacity:1" />
+      <stop
+         id="stop4226"
+         offset="1"
+         style="stop-color:#f6902d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4192">
+      <stop
+         style="stop-color:#fcdc38;stop-opacity:1"
+         offset="0"
+         id="stop4194" />
+      <stop
+         style="stop-color:#f6902d;stop-opacity:1"
+         offset="1"
+         id="stop4196" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4222"
+       id="linearGradient4168"
+       x1="1766.9751"
+       y1="-2457.5176"
+       x2="1772.1537"
+       y2="993.8642"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3773001,0,0,1.3773001,-506.71279,-14.468495)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4192"
+       id="linearGradient4184"
+       x1="1766.9751"
+       y1="-2457.5176"
+       x2="1772.1537"
+       y2="993.8642"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3773001,0,0,1.3773001,-506.71279,-14.468495)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.075785828"
+     inkscape:cx="3583.498"
+     inkscape:cy="2382.8605"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3386">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(490.13665,3422.916)">
+    <circle
+       style="fill:url(#linearGradient4184);fill-opacity:1.0;stroke:url(#linearGradient4168);stroke-width:1.37730002;stroke-opacity:1"
+       id="path4160"
+       r="2422.8337"
+       cy="-999.39362"
+       cx="1933.3857" />
+    <g
+       transform="matrix(0.86738436,0,0,1.1528914,146,-58.434045)"
+       style="font-style:normal;font-weight:normal;font-size:224.48258972px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4217">
+      <path
+         d="m 2764.6634,-1816.3711 c 278.5938,0 446.6757,86.3184 596.4769,258.9552 149.8013,171.7234 224.7019,417.434 224.7019,737.13185 0,321.52467 -74.9006,568.60541 -224.7019,741.242233 -149.8012,171.723398 -317.8831,257.585097 -596.4769,257.585097 -280.4207,0 -449.8727,-85.861699 -600.5874,-257.585097 -150.7147,-172.636823 -226.072,-419.717563 -226.072,-741.242233 0,-319.69785 75.3573,-565.40845 226.072,-737.13185 150.7147,-172.6368 320.1667,-258.9552 600.5874,-258.9552 z m 0,364.4555 c -126.9657,0 -172.649,49.3248 -229.2812,147.9744 -55.7188,97.7362 -83.5781,258.9552 -83.5781,483.65715 0,224.70189 27.8593,386.83436 83.5781,486.3974 56.6322,98.64961 102.3155,147.97442 229.2812,147.97442 123.312,0 167.1684,-49.78152 223.8006,-149.34456 57.5456,-100.47645 86.3184,-262.15221 86.3184,-485.02726 0,-222.87505 -28.7728,-383.63735 -86.3184,-482.28695 -56.6322,-99.5631 -100.4886,-149.3446 -223.8006,-149.3446 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2806.03344727px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3358"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scscscscsscscscscs" />
+      <path
+         d="m 1160.8652,-1403.9609 0,283.1755 176.7481,0 c 147.9744,0 278.1371,24.6624 390.488,73.9873 112.351,49.3248 199.1261,119.20159 260.3254,209.6304 62.1127,89.51539 93.1691,209.6231 93.1691,325.62774 0,137.01335 -32.4265,273.56265 -97.2795,374.95254 -63.9395,101.389877 -154.8251,180.400907 -272.6566,237.03309 -117.8315,55.71877 -255.3015,83.57815 -412.4102,83.57815 -126.9665,0 -259.4134,-22.37885 -397.34092,-67.13654 C 763.98181,72.129583 643.86677,13.21384 541.56346,-59.859948 L 740.23282,-438.0168 c 73.07379,78.55432 152.54155,138.38348 238.40328,179.48749 85.8624,41.10401 173.0948,61.65601 261.6975,61.65601 96.8229,0 171.7236,-22.83556 224.7021,-68.50668 53.8919,-46.58454 80.8379,-129.24193 80.8379,-213.27678 0,-76.72747 -26.946,-153.90433 -80.8379,-196.83518 -52.9785,-42.93085 -127.8792,-64.39628 -224.7021,-64.39628 -73.0744,0 -166.7008,1.37014 -280.87941,4.11041 -114.17779,2.74027 -198.21265,5.93724 -252.10457,9.59093 l 0,-1073.74262 1177.25018,0 0,395.9686 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2806.03344727px;line-height:0%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3356"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsscsccssccsscscssccccc" />
+    </g>
+    <g
+       transform="matrix(1.1818584,0,0,1.1818584,1531.4124,-1097.7633)"
+       id="g5">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 58.7,488.4 58.1,0 0,-110.5 38.1,0 0,-41.1 -133.5,0 0,41.1 37.3,0 0,110.5 0,0 z m 521,0 0,-150.3 -83.7,0 -16.9,87.6 -16.9,-87.3 -83.3,0 0,150 52.1,0 0,-104.5 21.3,104.5 54.4,0 21.4,-104.5 0,104.5 51.6,0 0,0 z m -343.4,-119.1 51,0 0,-32.3 -51,0 0,32.3 0,0 z m 0,119.1 51,0 0,-104.5 -51,0 0,104.5 0,0 z m -91.9,-104.5 0,104.5 49.3,0 0,-57.2 c 0,0 4.3,-20.1 34.3,-8.4 l 0,-38.9 c 0,0 -19.8,-9.7 -34.3,10.5 l 0,-10.5 -49.3,0 0,0 z"
+         id="path7" />
+      <polygon
+         class="st0"
+         points="333.9,343.8 362,407.6 333.7,470.1 305.4,407.6 305.4,407.6 "
+         id="polygon9"
+         style="fill:#f06522;fill-opacity:1" />
+      <polygon
+         class="st0"
+         points="299.4,310.8 399.1,82.7 399.2,82.7 434.3,160.6 370.1,310.8 299.4,310.8 "
+         id="polygon11"
+         style="fill:#f06522;fill-opacity:1" />
+      <polygon
+         class="st0"
+         points="569.3,310.8 469.6,82.7 469.5,82.7 434.4,160.6 498.6,310.8 569.3,310.8 "
+         id="polygon13"
+         style="fill:#f06522;fill-opacity:1" />
+      <polygon
+         class="st0"
+         points="31.7,310.8 131.5,82.7 131.5,82.7 166.7,160.6 102.5,310.8 31.7,310.8 "
+         id="polygon15"
+         style="fill:#f06522;fill-opacity:1" />
+      <polygon
+         class="st0"
+         points="301.7,310.8 201.9,82.7 201.9,82.7 166.7,160.6 230.9,310.8 301.7,310.8 "
+         id="polygon17"
+         style="fill:#f06522;fill-opacity:1" />
+      <polygon
+         class="st1"
+         points="164.8,310.8 264.5,82.7 264.6,82.7 299.7,160.6 235.5,310.8 164.8,310.8 "
+         id="polygon19"
+         style="fill:#fdcb08;fill-opacity:1" />
+      <polygon
+         class="st1"
+         points="434.7,310.8 335,82.7 334.9,82.7 299.8,160.6 364,310.8 434.7,310.8 "
+         id="polygon21"
+         style="fill:#fdcb08;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2967.6514"
+       y="-176.63971"
+       id="text4213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="2967.6514"
+         y="-176.63971"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:2500px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#ffffff;fill-opacity:1">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1125px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="910.28394"
+       y="757.2796"
+       id="text4218"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         x="910.28394"
+         y="757.2796"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:625px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1">YEARS</tspan></text>
+  </g>
+</svg>

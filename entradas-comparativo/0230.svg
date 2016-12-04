@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 373.5 182.7" style="enable-background:new 0 0 373.5 182.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E08585;}
+	.st1{fill:#CC3433;}
+	.st2{fill:#0E3386;}
+	.st3{fill:#6E85B6;}
+	.st4{fill:#F6DADA;}
+	.st5{fill:#D3DAE9;}
+	.st6{fill:#E0E0E0;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<title>gauge</title>
+<g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+</g>
+<g>
+	<path class="st0" d="M146,112.2l-35.7-61.8c-24.3,14-41.8,31.6-55.9,55.9l61.8,35.7C123.4,129.7,133.7,119.4,146,112.2z"/>
+	<path class="st1" d="M54.5,106.3c-14,24.3-20.5,48.3-20.5,76.3h71.3c0-14.8,4-28.7,10.9-40.7L54.5,106.3z"/>
+	<path class="st2" d="M318.9,106.3L257.1,142c6.9,12,10.9,25.8,10.9,40.7h71.3C339.4,154.6,332.9,130.6,318.9,106.3z"/>
+	<path class="st3" d="M257.1,142l61.8-35.7c-14-24.3-31.6-41.8-55.9-55.9l-35.7,61.8C239.7,119.4,250,129.7,257.1,142z"/>
+	<g>
+		<path class="st4" d="M186.7,30c-28.1,0-52,6.4-76.3,20.5l35.7,61.8c12-6.9,25.8-10.9,40.7-10.9V30"/>
+		<path class="st5" d="M186.7,30v71.3c14.8,0,28.7,4,40.7,10.9L263,50.5C238.7,36.4,214.8,30,186.7,30"/>
+	</g>
+</g>
+<g id="Gauge_micro_1_">
+	<path class="st6" d="M184,6.6C87.4,8.1,9.4,86,8,182.7h27.1C35.8,151.8,46,122,64.2,97.1c18.7-25.7,45-44.8,75.2-54.7h0
+		c15.3-5,31.2-7.5,47.3-7.5c15.5,0,30.9,2.3,45.7,7v0c30.4,9.6,56.9,28.5,76,54l0,0c18.8,25.1,29.3,55.4,30,86.8h27
+		C363.9,84,282.7,5.2,184,6.6z"/>
+</g>
+</svg>

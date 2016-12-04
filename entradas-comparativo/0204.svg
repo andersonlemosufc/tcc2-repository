@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4460px" height="5114px" viewBox="0 0 4460 5114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="french-flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="flag" sketch:type="MSLayerGroup">
+            <path d="M3234,3811.57018 L3234,447 L4380,960.551874 L4194,1670.55187 L3776,2351.55187 L4077,2496.55187 L4013,3017.55187 L4427,3443.55187 L3990,4061.55187 L3234,3811.57018 Z" id="Corsica" stroke="#979797" fill="#ED2939" sketch:type="MSShapeGroup"></path>
+            <path d="M4281,4215 L3976,4525 L4348,5114 L4460,4474 L4308,4380 L4281,4215 Z" id="France" fill="#ED2939" sketch:type="MSShapeGroup"></path>
+            <path d="M1695,705.9025 L1695,4121.78083 L866,3895 L1165,2446 L0,1261 L374,1022 L1027,1129 L982,657 L1652,746 L1695,705.9025 Z" id="blue" stroke="#979797" fill="#002395" sketch:type="MSShapeGroup"></path>
+            <path d="M3234,450.095031 L3234,3808.20481 L3061,3751 L2723,4403 L1695,4121.78083 L1695,705.9025 L2452,0 L3178,425 L3234,450.095031 Z" id="white" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

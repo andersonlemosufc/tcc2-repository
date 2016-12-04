@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2975"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="/home/peterm/afbeeldingen/svg"
+   sodipodi:docname="penguin.svg">
+  <metadata
+     id="metadata2980">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2978">
+    <linearGradient
+       id="linearGradient1545">
+      <stop
+         id="stop1546"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop1547"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="732"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.35919193"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2975" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.42900301;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3799"
+     sodipodi:cx="76.601868"
+     sodipodi:cy="465.53714"
+     sodipodi:rx="269.47443"
+     sodipodi:ry="64.290855"
+     d="M 346.07629 465.53714 A 269.47443 64.290855 0 1 1  -192.87256,465.53714 A 269.47443 64.290855 0 1 1  346.07629 465.53714 z"
+     transform="matrix(1.101523,0,0,1,285.8473,325.8626)"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     sodipodi:nodetypes="cccccccccc"
+     id="path1564"
+     d="M 348.63753,66.866805 C 293.85984,74.090403 251.4881,120.8536 251.4881,177.59032 C 251.4881,219.14136 264.75212,247.1201 259.94705,281.4691 C 250.20466,351.11265 107.1845,404.48286 107.1845,527.55712 C 107.1845,670.94277 223.56111,787.31936 366.94676,787.31938 C 510.33241,787.31938 626.70901,670.94277 626.70902,527.55712 C 626.70902,402.62937 499.10723,360.74412 466.80791,295.41592 C 456.92805,252.06696 475.18431,218.30735 475.18432,177.59032 C 475.18432,118.64898 429.50239,70.449985 371.64244,66.195992 C 331.47883,66.148565 359.76819,67.964488 348.63753,66.866805 z "
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:6.31352901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:white;stroke-width:6.31352901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 325.53434,300.16175 C 290.7188,331.78297 224.36004,392.88913 224.36004,474.92813 C 224.36004,575.9651 288.94359,657.94158 368.50579,657.94155 C 448.06799,657.94155 512.65156,575.96507 512.65156,474.92813 C 512.65156,389.94653 443.31835,328.02464 405.04535,298.03094 C 391.95687,287.77379 338.10566,288.74385 325.53434,300.16175 z "
+     id="path1568"
+     sodipodi:nodetypes="cccccc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     style="fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:#16192b;stroke-width:11.74737453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 234.71515,319.02703 C 302.53432,365.73671 406.83619,370.2531 483.64345,320.42944 C 497.94486,360.2064 712.69247,469.48205 605.39699,686.11815 C 529.40685,719.59342 198.30753,716.47945 133.75676,686.11815 C -4.066065,444.33369 223.14772,356.40976 234.71515,319.02703 z "
+     id="rect1313"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     sodipodi:nodetypes="cccccccc"
+     id="path1570"
+     d="M 392.83438,132.62289 C 377.42366,132.62289 364.1598,144.63232 357.27128,162.12235 C 350.32117,144.92729 337.19058,133.16017 321.93845,133.16017 C 299.5068,133.16017 281.28394,158.3107 281.28395,189.31916 C 281.28395,220.32761 299.50681,245.50374 321.93845,245.50373 C 337.34788,245.50373 377.58081,244.96645 392.83438,244.96645 C 415.26601,244.96645 433.46329,219.81591 433.4633,188.80746 C 433.4633,157.79901 415.26601,132.62289 392.83438,132.62289 z "
+     style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.30518723;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     transform="matrix(0.598967,0,0,0.598967,141.0306,-2.62071)"
+     d="M 347.49247 356.36707 A 34.345188 47.477169 0 1 1  278.80209,356.36707 A 34.345188 47.477169 0 1 1  347.49247 356.36707 z"
+     sodipodi:ry="47.477169"
+     sodipodi:rx="34.345188"
+     sodipodi:cy="356.36707"
+     sodipodi:cx="313.14728"
+     id="path1574"
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc" />
+  <path
+     transform="matrix(0.262408,0,0,0.262408,248.6224,108.4575)"
+     d="M 347.49247 356.36707 A 34.345188 47.477169 0 1 1  278.80209,356.36707 A 34.345188 47.477169 0 1 1  347.49247 356.36707 z"
+     sodipodi:ry="47.477169"
+     sodipodi:rx="34.345188"
+     sodipodi:cy="356.36707"
+     sodipodi:cx="313.14728"
+     id="path1576"
+     style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc" />
+  <path
+     transform="matrix(0.600571,0,0,0.600571,201.478,-4.32885)"
+     d="M 347.49247 356.36707 A 34.345188 47.477169 0 1 1  278.80209,356.36707 A 34.345188 47.477169 0 1 1  347.49247 356.36707 z"
+     sodipodi:ry="47.477169"
+     sodipodi:rx="34.345188"
+     sodipodi:cy="356.36707"
+     sodipodi:cx="313.14728"
+     id="path1580"
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc" />
+  <path
+     transform="matrix(0.263111,0,0,0.263111,306.0494,108.1498)"
+     d="M 347.49247 356.36707 A 34.345188 47.477169 0 1 1  278.80209,356.36707 A 34.345188 47.477169 0 1 1  347.49247 356.36707 z"
+     sodipodi:ry="47.477169"
+     sodipodi:rx="34.345188"
+     sodipodi:cy="356.36707"
+     sodipodi:cx="313.14728"
+     id="path1582"
+     style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc" />
+  <path
+     style="opacity:0.08173074;fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.74737453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 451.41628,331.79354 C 490.63708,325.95174 703.94698,478.34697 596.65148,681.55092 C 81.568527,812.97625 259.70628,397.77413 451.41628,331.79354 z "
+     id="path2335"
+     sodipodi:nodetypes="ccc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     id="path1586"
+     d="M 486.4228,313.88498 C 482.22229,315.11346 478.70009,317.22864 475.94045,320.27499 C 456.94662,341.24214 522.10588,435.34967 522.91044,460.1873 C 521.29896,472.12294 491.64314,571.18242 508.94832,593.51539 C 531.38164,622.46641 590.74196,586.31774 641.42835,512.80804 C 649.05816,501.74265 652.73156,489.75041 655.83955,478.18376 C 661.58317,453.19581 661.69754,426.19038 635.7896,399.5203 C 577.88976,339.91718 515.8263,305.28561 486.4228,313.88498 z "
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5.69270515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:nodetypes="cccccccc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     id="path1614"
+     d="M 232.3958,311.46506 C 236.67773,312.36977 240.35093,314.21031 243.33474,317.03744 C 263.87156,336.49574 206.07543,435.29636 207.16649,460.12306 C 209.6831,471.90113 246.80364,568.41182 231.25118,591.99894 C 211.08998,622.57574 149.14686,591.05711 93.004524,521.62495 C 84.553435,511.17336 79.976596,499.49602 75.995967,488.19994 C 68.364289,463.72251 66.19172,436.80436 89.991294,408.237 C 143.17932,344.39377 202.42235,305.13206 232.3958,311.46506 z "
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5.69270515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:nodetypes="cccccccc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     id="path1624"
+     d="M 419.99927,260.52328 C 419.99927,278.87238 394.30922,344.73409 360.32944,344.73409 C 326.34965,344.73409 296.88406,278.87238 296.88406,260.52328 C 296.88406,242.17421 324.46188,227.28219 358.44168,227.28219 C 392.42146,227.28219 419.99927,242.17421 419.99927,260.52328 z "
+     style="fill:#f8b80c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:12.28078079;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     d="M 328.57144 325.93362 A 2.8571429 6.4285712 0 1 1  322.85715,325.93362 A 2.8571429 6.4285712 0 1 1  328.57144 325.93362 z"
+     sodipodi:ry="6.4285712"
+     sodipodi:rx="2.8571429"
+     sodipodi:cy="325.93362"
+     sodipodi:cx="325.71429"
+     id="path1628"
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc"
+     transform="matrix(1.262706,0,0,1.262706,-64.69068,-153.51)"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     transform="matrix(1.262706,0,0,1.262706,-41.24008,-154.4119)"
+     d="M 328.57144 325.93362 A 2.8571429 6.4285712 0 1 1  322.85715,325.93362 A 2.8571429 6.4285712 0 1 1  328.57144 325.93362 z"
+     sodipodi:ry="6.4285712"
+     sodipodi:rx="2.8571429"
+     sodipodi:cy="325.93362"
+     sodipodi:cx="325.71429"
+     id="path1630"
+     style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     sodipodi:type="arc"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     sodipodi:nodetypes="ccccccc"
+     id="path2395"
+     d="M 350.86328,770.69541 C 366.33584,784.9994 367.25085,809.16132 352.9469,824.6339 C 344.2188,834.07504 184.75944,830.86534 177.36559,824.02994 C 161.8931,809.72595 160.94355,785.53217 175.24757,770.05962 C 189.52997,754.61045 215.70955,761.0625 229.11725,767.91238 C 266.97553,749.2644 278.63304,754.23346 302.24702,768.12649 C 314.08123,765.06751 337.16124,758.02819 350.86328,770.69541 z "
+     style="fill:#f8bc0c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:12.28078079;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+  <path
+     sodipodi:nodetypes="ccccccc"
+     id="path1610"
+     d="M 384.0596,770.33417 C 368.58704,784.63816 367.67203,808.80008 381.97598,824.27266 C 390.70408,833.7138 550.16344,830.5041 557.55729,823.6687 C 573.02978,809.36471 573.97933,785.17093 559.67531,769.69838 C 545.39291,754.24921 519.21333,760.70126 505.80563,767.55114 C 467.94735,748.90316 456.28984,753.87222 432.67586,767.76525 C 420.84165,764.70627 397.76164,757.66695 384.0596,770.33417 z "
+     style="fill:#f8bc0c;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:12.28078079;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/kroew.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171" />
+</svg>

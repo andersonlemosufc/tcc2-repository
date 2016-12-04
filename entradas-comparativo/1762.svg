@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4676.1953"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2318.000000 -2328.000000 4676.195313 4687.770508"
+     height="4687.7705" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="30.0"
+              d="M 1244.860596,1375.488403 C 1309.007324,1545.236694 1150.604980,1896.079102 980.856750,1960.225830"
+              class="Veken Gueyikian Hyperallergic" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1389.693726,1784.344116 C 1343.102661,1901.287842 1097.800537,2006.816895 980.856750,1960.225830"
+              class="Hrag Vartanian Hyperallergic" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1383.927612,88.599762 C -1271.441162,152.675140 -1198.824585,417.517822 -1262.899902,530.004272"
+              class="Bitforms Claudia" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1383.927612,88.599762 C -1455.390991,-21.582830 -1397.312256,-294.051819 -1287.129639,-365.515228"
+              class="Bitforms Sara Ludy" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -939.438843,56.133850 C -909.356934,215.600159 -1103.433594,499.922363 -1262.899902,530.004272"
+              class="Transfer Claudia" stroke-opacity="1.0" stroke="#c1f8dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -939.438843,56.133850 C -810.209351,135.153503 -734.894592,447.527222 -813.914246,576.756714"
+              class="Transfer Carla" stroke-opacity="1.0" stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -543.809265,1804.561523 C -668.716797,1801.398193 -851.333191,1609.291992 -848.169922,1484.384521"
+              class="Postmasters Magda Sawon" stroke-opacity="1.0"
+              stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -592.868469,1047.947510 C -431.733826,1189.458374 -402.298279,1643.426880 -543.809265,1804.561523"
+              class="18 Postmasters" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -543.809265,1804.561523 C -443.404144,1710.867798 -152.255936,1720.934937 -58.562244,1821.340088"
+              class="Postmasters Kristin Lucas" stroke-opacity="1.0"
+              stroke="#baf7e7"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1262.899902,530.004272 C -1313.788330,775.511292 -1758.381592,1067.439209 -2003.888672,1016.550720"
+              class="Claudia The New Museum" stroke-opacity="1.0"
+              stroke="#ccfbcb"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -653.330566,-2163.348877 C -587.344238,-2051.492920 -656.148743,-1784.729248 -768.004822,-1718.742920"
+              class="Sasha Okshteyn Black And White Gallery"
+              stroke-opacity="1.0" stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -768.004822,-1718.742920 C -743.554260,-1596.445557 -890.324524,-1376.323608 -1012.621887,-1351.873169"
+              class="Black And White Gallery Joe Bochynski" stroke-opacity="1.0"
+              stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -768.004822,-1718.742920 C -750.482788,-1944.315918 -385.840302,-2256.392578 -160.267227,-2238.870605"
+              class="Black And White Gallery Nicole Reber" stroke-opacity="1.0"
+              stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -768.004822,-1718.742920 C -887.201294,-1687.795898 -1112.416748,-1820.169922 -1143.363770,-1939.366455"
+              class="Black And White Gallery Ross Simonini" stroke-opacity="1.0"
+              stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -768.004822,-1718.742920 C -900.297729,-1561.139526 -1335.142090,-1523.173950 -1492.745483,-1655.466797"
+              class="Black And White Gallery Anastasia Ax" stroke-opacity="1.0"
+              stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -768.004822,-1718.742920 C -688.653198,-1829.630737 -403.294067,-1876.934937 -292.406311,-1797.583252"
+              class="Black And White Gallery Rachel Stern" stroke-opacity="1.0"
+              stroke="#c4f9d8"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -691.418091,-943.045715 C -596.336304,-1065.470215 -270.076996,-1106.484253 -147.652542,-1011.402405"
+              class="Reverse Space Helena Acosta" stroke-opacity="1.0"
+              stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -691.418091,-943.045715 C -758.039429,-832.716064 -1023.465942,-767.153687 -1133.795532,-833.775024"
+              class="Reverse Space Violette Bule" stroke-opacity="1.0"
+              stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 796.670288,1502.252441 C 891.574768,1682.337524 763.803833,2094.821777 583.718811,2189.726074"
+              class="The Wild Project Angela Washko" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 641.347412,-681.278625 C 728.924805,-790.639587 1024.332397,-823.314819 1133.693237,-735.737427"
+              class="Microscope Gallery Ray Sweeten" stroke-opacity="1.0"
+              stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 641.347412,-681.278625 C 777.410095,-655.730835 943.182495,-413.315125 917.634705,-277.252441"
+              class="Microscope Gallery Andrea Monti" stroke-opacity="1.0"
+              stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 641.347412,-681.278625 C 551.400269,-580.307434 265.022736,-563.771484 164.051575,-653.718628"
+              class="Microscope Gallery Elle Burchill" stroke-opacity="1.0"
+              stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 641.347412,-681.278625 C 692.171265,-555.150696 579.215210,-289.722839 453.087250,-238.898972"
+              class="Microscope Gallery Lisa Gwilliam" stroke-opacity="1.0"
+              stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -939.438843,56.133850 C -892.444397,-82.440331 -614.091370,-219.809906 -475.517212,-172.815430"
+              class="Transfer Kelani Nicole" stroke-opacity="1.0"
+              stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1758.757568,-320.417908 C -1818.822876,-436.010284 -1735.532471,-699.496948 -1619.940063,-759.562317"
+              class="Waterfall Mansion Dooeun Choi" stroke-opacity="1.0"
+              stroke="#aef4fb"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1758.757568,-320.417908 C -1927.256592,-368.072693 -2108.522705,-692.303345 -2060.867920,-860.802246"
+              class="Waterfall Mansion Kate Shin" stroke-opacity="1.0"
+              stroke="#aef4fb"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1758.757568,-320.417908 C -1489.501587,-249.505005 -1191.986938,260.748322 -1262.899902,530.004272"
+              class="Waterfall Mansion Claudia" stroke-opacity="1.0"
+              stroke="#bff8df"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 98.733704,2239.125977 C 77.028221,2080.242188 282.795776,1809.358154 441.679596,1787.652710"
+              class="Will Pappenheimer The Whitney" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 984.506775,1012.058899 C 1081.195313,898.346924 1396.796143,872.812012 1510.508179,969.500610"
+              class="MOMI Carl Goodman" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 984.506775,1012.058899 C 910.744629,1245.183960 450.413696,1484.228516 217.288513,1410.466431"
+              class="MOMI Jason Eppink" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -2003.888672,1016.550720 C -2132.826172,959.440369 -2240.567139,680.368408 -2183.456787,551.430786"
+              class="The New Museum NewInc" stroke-opacity="1.0"
+              stroke="#c7fad3"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -2183.456787,551.430786 C -2086.164795,465.589020 -1811.464233,482.764374 -1725.622437,580.056335"
+              class="NewInc Pablo Gnecco" stroke-opacity="1.0" stroke="#c7fad3"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 523.690308,1079.487305 C 528.605774,1206.963501 344.764709,1405.551025 217.288513,1410.466431"
+              class="Flux Factory Jason Eppink" stroke-opacity="1.0"
+              stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1831.488525,136.844940 C -2016.018555,98.823708 -2235.781738,-235.003143 -2197.760498,-419.533173"
+              class="Eyebeam Roddy Shrock" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1831.488525,136.844940 C -1933.296387,204.996277 -2188.235352,154.511353 -2256.386719,52.703415"
+              class="Eyebeam Laura Weizenbach" stroke-opacity="1.0"
+              stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1802.185791,65.119240 C 1875.799805,179.260315 1815.009277,460.892975 1700.868164,534.507019"
+              class="MOMA Michelle Fisher" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1802.185791,65.119240 C 1809.863892,-99.875946 2068.873779,-335.851624 2233.868896,-328.173553"
+              class="MOMA Paul Galloway" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1802.185791,65.119240 C 1639.380127,75.562172 1379.507202,-152.981903 1369.064331,-315.787567"
+              class="MOMA Walid Raad" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1983.362915,1019.850159 C 2013.773926,1148.934692 1865.763794,1388.178101 1736.679199,1418.589111"
+              class="ICP Christopher Phillips" stroke-opacity="1.0"
+              stroke="#b7f6ec"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 2235.190430,152.998489 C 2307.639893,258.939789 2257.401855,526.525879 2151.460693,598.975281"
+              class="Mana Contemporary Moishe Mana" stroke-opacity="1.0"
+              stroke="#b7f6ec"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -24.774843,1029.683594 C -7.156380,1160.836182 -177.457489,1383.992676 -308.610016,1401.611084"
+              class="William Patterson University Rees" stroke-opacity="1.0"
+              stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1283.108398,1396.959961 C -1452.457764,1219.527100 -1440.332764,699.353699 -1262.899902,530.004272"
+              class="SAIC Claudia" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1283.108398,1396.959961 C -1363.385254,1498.991943 -1636.848267,1531.624756 -1738.880249,1451.347900"
+              class="SAIC David" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1283.108398,1396.959961 C -1079.464966,1453.982544 -859.533691,1844.981567 -916.556274,2048.625000"
+              class="SAIC Tiffany" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1283.108398,1396.959961 C -1318.550293,1267.989258 -1178.257202,1021.370361 -1049.286499,985.928467"
+              class="SAIC Kurt" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -813.914246,576.756714 C -814.624512,450.535583 -626.358215,260.138580 -500.137085,259.428345"
+              class="Carla Rutledge" stroke-opacity="1.0" stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -813.914246,576.756714 C -691.021912,494.088898 -382.681732,554.425598 -300.013916,677.317932"
+              class="Carla Knollmeyer" stroke-opacity="1.0" stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -475.517212,-172.815430 C -388.729004,-272.524811 -108.982643,-291.906555 -9.273263,-205.118347"
+              class="Kelani Nicole Bloomberg" stroke-opacity="1.0"
+              stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -2060.867920,-860.802246 C -2001.570557,-1054.807983 -1621.615967,-1256.870483 -1427.610352,-1197.573120"
+              class="Kate Shin Angelo, Gordon &amp; Co." stroke-opacity="1.0"
+              stroke="#aef4fb"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -2060.867920,-860.802246 C -2105.966553,-987.539001 -1983.509277,-1245.291992 -1856.772583,-1290.390503"
+              class="Kate Shin Wemi:t LLC" stroke-opacity="1.0" stroke="#aef4fb"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 2235.190430,152.998489 C 2358.195313,376.734344 2207.098633,896.845337 1983.362915,1019.850159"
+              class="Mana Contemporary ICP" stroke-opacity="1.0"
+              stroke="#b7f6ec"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1262.899902,530.004272 C -1128.992432,578.466431 -1000.824341,852.020996 -1049.286499,985.928467"
+              class="Claudia Kurt" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1262.899902,530.004272 C -1455.249512,565.090149 -1796.402588,329.194519 -1831.488525,136.844940"
+              class="Claudia Eyebeam" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="0.0"
+              d="M 1209.683960,591.337708 C 1222.940674,367.593658 1578.441772,51.862549 1802.185791,65.119240"
+              class="Ingo Günther MOMA" stroke-opacity="1.0" stroke="#c1f8dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 242.586517,661.500061 C 421.973541,454.048096 1002.231995,411.950684 1209.683960,591.337708"
+              class="0 Ingo Günther" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 242.586517,661.500061 C 107.238441,635.018066 -56.060677,392.273010 -29.578682,256.924927"
+              class="0 1" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 895.447327,177.051575 C 947.625122,301.193939 839.678345,565.674194 715.535950,617.851990"
+              class="3 2" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 895.447327,177.051575 C 981.424744,79.323402 1256.983032,61.697243 1354.711182,147.674622"
+              class="3 4" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 785.831726,-1432.648560 298.347565,-1621.577393 198.829102,-1847.048340"
+              class="The Kitchen 5" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1105.072632,-1656.969360 1432.931030,-1703.517822 1557.733276,-1609.747803"
+              class="The Kitchen 6" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 736.622803,-1541.865479 339.150696,-1968.432861 348.849121,-2243.112793"
+              class="The Kitchen 7" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 968.101501,-1318.615112 582.971924,-1063.089111 369.420044,-1106.290283"
+              class="The Kitchen 8" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1271.395264,-1509.224365 1627.119873,-1084.671509 1604.177124,-824.578979"
+              class="The Kitchen 9" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 857.065735,-1583.735840 703.063538,-1892.444580 754.632385,-2046.681519"
+              class="The Kitchen 10" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 967.460999,-1646.876953 1073.763428,-1884.704468 1188.473267,-1928.546143"
+              class="The Kitchen 11" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 912.851318,-1450.431396 642.570679,-1475.504761 560.834900,-1573.956055"
+              class="The Kitchen 12" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1059.650024,-1412.956543 953.355164,-1161.619995 834.144714,-1113.272705"
+              class="The Kitchen 13" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1369.805420,-1605.496582 2017.553833,-1177.736450 2090.883301,-819.233582"
+              class="The Kitchen 14" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 837.431824,-1316.816162 253.599182,-1254.596069 38.248226,-1428.466797"
+              class="The Kitchen 15" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1238.833130,-1644.610718 1748.794189,-1471.980103 1861.237793,-1244.449585"
+              class="The Kitchen 16" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1144.449951,-1530.839111 1342.178833,-1329.126221 1340.850708,-1195.979004"
+              class="The Kitchen 17" stroke-opacity="1.0" stroke="#d4febf"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1354.711182,147.674622 C 1427.694946,41.668625 1696.179810,-7.864601 1802.185791,65.119240"
+              class="4 MOMA" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -592.868469,1047.947510 C -830.463379,1078.365234 -1232.482178,767.599182 -1262.899902,530.004272"
+              class="18 Claudia" stroke-opacity="1.0" stroke="#c2f9da"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -592.868469,1047.947510 C -696.555908,1126.827271 -970.406677,1089.615845 -1049.286499,985.928467"
+              class="18 Kurt" stroke-opacity="1.0" stroke="#c2f9da"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 217.288513,1410.466431 C -17.246658,1499.994019 -503.340881,1282.482666 -592.868469,1047.947510"
+              class="Jason Eppink 18" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -308.610016,1401.611084 C -436.194397,1387.730103 -606.749512,1175.531860 -592.868469,1047.947510"
+              class="Rees 18" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -848.169922,1484.384521 C -884.397034,1346.036865 -731.216187,1084.174561 -592.868469,1047.947510"
+              class="Magda Sawon 18" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 242.586517,661.500061 C 152.785019,905.880554 -348.487976,1137.749023 -592.868469,1047.947510"
+              class="0 18" stroke-opacity="1.0" stroke="#b4f5f1"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -813.914246,576.756714 C -675.466919,626.785706 -542.839478,909.500183 -592.868469,1047.947510"
+              class="Carla 18" stroke-opacity="1.0" stroke="#b2f4f3"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -1323.229248,1825.927856 C -1400.998657,1732.110107 -1376.926147,1474.729370 -1283.108398,1396.959961"
+              class="Miao Jiaxin SAIC" stroke-opacity="1.0" stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -58.562244,1821.340088 C 56.454132,1873.437988 150.831696,2124.109619 98.733704,2239.125977"
+              class="Kristin Lucas Will Pappenheimer" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 583.718811,2189.726074 C 496.601776,2296.603027 205.610703,2326.243164 98.733704,2239.125977"
+              class="Angela Washko Will Pappenheimer" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 980.856750,1960.225830 C 860.212158,2192.430420 330.938354,2359.770508 98.733704,2239.125977"
+              class="Hyperallergic Will Pappenheimer" stroke-opacity="1.0"
+              stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -401.149811,2227.227539 C -413.809784,2077.532471 -208.257248,1834.000000 -58.562244,1821.340088"
+              class="19 Kristin Lucas" stroke-opacity="1.0" stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -401.149811,2227.227539 C -514.214905,2171.226318 -599.810547,1917.626587 -543.809265,1804.561523"
+              class="19 Postmasters" stroke-opacity="1.0" stroke="#baf7e7"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -401.149811,2227.227539 C -298.793396,2129.630371 1.136684,2136.769531 98.733704,2239.125977"
+              class="19 Will Pappenheimer" stroke-opacity="1.0" stroke="#c1f9dd"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -2003.888672,1016.550720 C -1914.665283,917.181519 -1631.776367,901.962830 -1532.407227,991.186157"
+              class="The New Museum Jim Shaw" stroke-opacity="1.0"
+              stroke="#c7fad3"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1802.185791,65.119240 C 1683.054688,-169.490814 1856.273193,-700.102539 2090.883301,-819.233582"
+              class="MOMA 14" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 2235.190430,152.998489 C 2131.013672,222.023560 1871.210938,169.296021 1802.185791,65.119240"
+              class="Mana Contemporary MOMA" stroke-opacity="1.0"
+              stroke="#c2f9da"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -939.438843,56.133850 C -1020.766846,-65.890305 -959.722656,-370.918549 -837.698486,-452.246552"
+              class="Transfer 22" stroke-opacity="1.0" stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M -691.418091,-943.045715 C -622.514343,-815.629761 -710.282532,-521.150269 -837.698486,-452.246552"
+              class="Reverse Space 22" stroke-opacity="1.0" stroke="#b1f4f6"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1011.302673,-1532.167114 C 1195.066650,-1397.359375 1268.500977,-919.501465 1133.693237,-735.737427"
+              class="The Kitchen Ray Sweeten" stroke-opacity="1.0"
+              stroke="#d1fdc4"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1802.185791,65.119240 C 1708.033203,-29.473919 1708.693970,-312.592529 1803.287231,-406.745117"
+              class="MOMA 23" stroke-opacity="1.0" stroke="#cefcc9"/>
+        <path fill="none" stroke-width="30.0"
+              d="M 1803.287231,-406.745117 C 1603.569946,-338.624786 1201.813599,-536.020142 1133.693237,-735.737427"
+              class="23 Ray Sweeten" stroke-opacity="1.0" stroke="#cefcc9"/>
+    </g>
+    <g id="nodes">
+        <circle fill="#cefcc9" fill-opacity="1.0" r="66.088295"
+                class="Michelle Fisher" cx="1700.8682" cy="534.507"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="66.088295"
+                class="Paul Galloway" cx="2233.869" cy="-328.17355"/>
+        <circle fill="#aef4fb" fill-opacity="1.0" r="62.873528"
+                class="Dooeun Choi" cx="-1619.9401" cy="-759.5623"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="70.18892"
+                class="Kelani Nicole" cx="-475.5172" cy="-172.81543"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="108.00566"
+                class="Magda Sawon" cx="-848.1699" cy="1484.3845"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="54.335682"
+                class="Helena Acosta" cx="-147.65254" cy="-1011.4024"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="54.447807"
+                class="Elle Burchill" cx="164.05157" cy="-653.7186"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="54.447807"
+                class="Andrea Monti" cx="917.6347" cy="-277.25244"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Sasha Okshteyn" cx="-653.33057" cy="-2163.3489"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="54.598534"
+                class="Carl Goodman" cx="1510.5082" cy="969.5006"/>
+        <circle fill="#b7f6ec" fill-opacity="1.0" r="53.72705"
+                class="Christopher Phillips" cx="1736.6792" cy="1418.5891"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="67.15044" class="Rutledge"
+                cx="-500.1371" cy="259.42834"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="67.15044"
+                class="Knollmeyer" cx="-300.01392" cy="677.31793"/>
+        <circle fill="#c7fad3" fill-opacity="1.0" r="54.619843"
+                class="Pablo Gnecco" cx="-1725.6224" cy="580.05634"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="64.53423"
+                class="Angela Washko" cx="583.7188" cy="2189.726"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="54.335682"
+                class="Violette Bule" cx="-1133.7955" cy="-833.775"/>
+        <circle fill="#baf7e7" fill-opacity="1.0" r="50.0" class="Mandiberg"
+                cx="428.50085" cy="207.89107"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="54.447807"
+                class="Lisa Gwilliam" cx="453.08725" cy="-238.89897"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="54.447807"
+                class="Ray Sweeten" cx="1133.6932" cy="-735.7374"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="90.25647"
+                class="Will Pappenheimer" cx="98.7337" cy="2239.126"/>
+        <circle fill="#bef8e2" fill-opacity="1.0" r="50.0"
+                class="Shane Mecklenburger" cx="-480.13626" cy="-1346.2678"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="96.30197"
+                class="Jason Eppink" cx="217.28851" cy="1410.4664"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="91.19037" class="Rees"
+                cx="-308.61002" cy="1401.6111"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="66.088295"
+                class="Walid Raad" cx="1369.0643" cy="-315.78757"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="60.743927"
+                class="Sara Ludy" cx="-1287.1296" cy="-365.51523"/>
+        <circle fill="#c7fad3" fill-opacity="1.0" r="62.4493" class="Jim Shaw"
+                cx="-1532.4072" cy="991.18616"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="79.43317"
+                class="Ingo Günther" cx="1209.684" cy="591.3377"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="115.548676" class="Carla"
+                cx="-813.91425" cy="576.7567"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="94.93463"
+                class="Kristin Lucas" cx="-58.562244" cy="1821.3401"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="70.15873"
+                class="Miao Jiaxin" cx="-1323.2292" cy="1825.9279"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="198.17436" class="Claudia"
+                cx="-1262.8999" cy="530.0043"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="146.04416" class="Kurt"
+                cx="-1049.2865" cy="985.92847"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Joe Bochynski" cx="-1012.6219" cy="-1351.8732"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Nicole Reber" cx="-160.26723" cy="-2238.8706"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Ross Simonini" cx="-1143.3638" cy="-1939.3665"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Anastasia Ax" cx="-1492.7455" cy="-1655.4668"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="58.00059"
+                class="Rachel Stern" cx="-292.4063" cy="-1797.5833"/>
+        <circle fill="#aef4fb" fill-opacity="1.0" r="67.597984"
+                class="Kate Shin" cx="-2060.868" cy="-860.80225"/>
+        <circle fill="#b7f6ec" fill-opacity="1.0" r="57.639874"
+                class="Moishe Mana" cx="2151.4607" cy="598.9753"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="67.41152"
+                class="Hyperallergic" cx="980.85675" cy="1960.2258"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="56.15131"
+                class="Veken Gueyikian" cx="1244.8606" cy="1375.4884"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="56.15131"
+                class="Hrag Vartanian" cx="1389.6937" cy="1784.3441"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="91.10234" class="Bitforms"
+                cx="-1383.9276" cy="88.59976"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="117.70673" class="Transfer"
+                cx="-939.43884" cy="56.13385"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="127.59068"
+                class="Postmasters" cx="-543.80927" cy="1804.5615"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="178.40546"
+                class="The Kitchen" cx="1011.3027" cy="-1532.1671"/>
+        <circle fill="#c4f9d8" fill-opacity="1.0" r="69.69131"
+                class="Black And White Gallery" cx="-768.0048" cy="-1718.7429"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="60.832302"
+                class="Reverse Space" cx="-691.4181" cy="-943.0457"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="94.93463" class="19"
+                cx="-401.1498" cy="2227.2275"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="55.015224"
+                class="The Wild Project" cx="796.6703" cy="1502.2524"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="58.98355"
+                class="Microscope Gallery" cx="641.3474" cy="-681.2786"/>
+        <circle fill="#aef4fb" fill-opacity="1.0" r="97.563156"
+                class="Waterfall Mansion" cx="-1758.7576" cy="-320.4179"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="50.0" class="23"
+                cx="1803.2872" cy="-406.74512"/>
+        <circle fill="#c1f9dd" fill-opacity="1.0" r="62.423706"
+                class="The Whitney" cx="441.6796" cy="1787.6527"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="64.35142" class="MOMI"
+                cx="984.5068" cy="1012.0589"/>
+        <circle fill="#c7fad3" fill-opacity="1.0" r="96.23602"
+                class="The New Museum" cx="-2003.8887" cy="1016.5507"/>
+        <circle fill="#c7fad3" fill-opacity="1.0" r="64.410675" class="NewInc"
+                cx="-2183.4568" cy="551.4308"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="62.39469"
+                class="Flux Factory" cx="523.6903" cy="1079.4873"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="95.138664" class="Eyebeam"
+                cx="-1831.4885" cy="136.84494"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="62.07302"
+                class="Roddy Shrock" cx="-2197.7605" cy="-419.53317"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="62.07302"
+                class="Laura Weizenbach" cx="-2256.3867" cy="52.703415"/>
+        <circle fill="#cbfbce" fill-opacity="1.0" r="50.0" class="Cooper Hewitt"
+                cx="-344.8378" cy="-608.3178"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="102.196655" class="MOMA"
+                cx="1802.1858" cy="65.11924"/>
+        <circle fill="#b7f6ec" fill-opacity="1.0" r="59.46005" class="ICP"
+                cx="1983.3629" cy="1019.85016"/>
+        <circle fill="#b7f6ec" fill-opacity="1.0" r="72.66941"
+                class="Mana Contemporary" cx="2235.1904" cy="152.99849"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="60.694073"
+                class="William Patterson University" cx="-24.774843"
+                cy="1029.6836"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="128.27405" class="SAIC"
+                cx="-1283.1084" cy="1396.96"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="70.15873" class="David"
+                cx="-1738.8802" cy="1451.3479"/>
+        <circle fill="#d1fdc4" fill-opacity="1.0" r="70.15873" class="Tiffany"
+                cx="-916.5563" cy="2048.625"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="55.964695"
+                class="Bloomberg" cx="-9.273263" cy="-205.11835"/>
+        <circle fill="#aef4fb" fill-opacity="1.0" r="55.836285"
+                class="Angelo, Gordon &amp; Co." cx="-1427.6104" cy="-1197.5731"/>
+        <circle fill="#aef4fb" fill-opacity="1.0" r="55.836285"
+                class="Wemi:t LLC" cx="-1856.7726" cy="-1290.3905"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="100.490295" class="0"
+                cx="242.58652" cy="661.50006"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="63.34487" class="1"
+                cx="-29.578682" cy="256.92493"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="53.30744" class="2"
+                cx="715.53595" cy="617.852"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="58.135933" class="3"
+                cx="895.4473" cy="177.05157"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="69.39574" class="4"
+                cx="1354.7112" cy="147.67462"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="5"
+                cx="198.8291" cy="-1847.0483"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="6"
+                cx="1557.7333" cy="-1609.7478"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="7"
+                cx="348.84912" cy="-2243.1128"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="8"
+                cx="369.42004" cy="-1106.2903"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="9"
+                cx="1604.1771" cy="-824.579"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="10"
+                cx="754.6324" cy="-2046.6815"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="11"
+                cx="1188.4733" cy="-1928.5461"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="12"
+                cx="560.8349" cy="-1573.956"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="13"
+                cx="834.1447" cy="-1113.2727"/>
+        <circle fill="#cefcc9" fill-opacity="1.0" r="101.03308" class="14"
+                cx="2090.8833" cy="-819.2336"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="15"
+                cx="38.248226" cy="-1428.4668"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="16"
+                cx="1861.2378" cy="-1244.4496"/>
+        <circle fill="#d4febf" fill-opacity="1.0" r="84.94478" class="17"
+                cx="1340.8507" cy="-1195.979"/>
+        <circle fill="#b4f5f1" fill-opacity="1.0" r="200.0" class="18"
+                cx="-592.86847" cy="1047.9475"/>
+        <circle fill="#b1f4f6" fill-opacity="1.0" r="72.28713" class="22"
+                cx="-837.6985" cy="-452.24655"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="66" x="1700.8682" y="546.7128" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Michelle Fisher">
+            Michelle Fisher
+        </text>
+        <text font-size="66" x="2233.869" y="-312.49533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Paul Galloway">
+            Paul Galloway
+        </text>
+        <text font-size="63" x="-1619.9401" y="-747.65753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Dooeun Choi">
+            Dooeun Choi
+        </text>
+        <text font-size="70" x="-475.5172" y="-159.88696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Kelani Nicole">
+            Kelani Nichole
+        </text>
+        <text font-size="108" x="-848.1699" y="1510.2112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Magda Sawon">
+            Magda Sawon
+        </text>
+        <text font-size="54" x="-147.65254" y="-1001.4488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Helena Acosta">
+            Helena Acosta
+        </text>
+        <text font-size="54" x="164.05157" y="-643.75183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Elle Burchill">
+            Elle Burchill
+        </text>
+        <text font-size="54" x="917.6347" y="-267.27905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Andrea Monti">
+            Andrea Monti
+        </text>
+        <text font-size="58" x="-653.33057" y="-2149.557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Sasha Okshteyn">
+            Sasha Okshteyn
+        </text>
+        <text font-size="55" x="1510.5082" y="979.8937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Carl Goodman">
+            Carl Goodman
+        </text>
+        <text font-size="54" x="1736.6792" y="1431.3508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Christopher Phillips">
+            Christopher Phillips
+        </text>
+        <text font-size="67" x="-500.1371" y="275.18872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Rutledge">
+            Rutledge
+        </text>
+        <text font-size="67" x="-300.01392" y="692.9229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Knollmeyer">
+            Knollmeyer
+        </text>
+        <text font-size="55" x="-1725.6224" y="590.436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Pablo Gnecco">
+            Pablo Gnecco
+        </text>
+        <text font-size="65" x="583.7188" y="2205.016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Angela Washko">
+            Angela Washko
+        </text>
+        <text font-size="54" x="-1133.7955" y="-823.8346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Violette Bule">
+            Violette Bule
+        </text>
+        <text font-size="50" x="428.50085" y="219.65254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Mandiberg">
+            Mandiberg
+        </text>
+        <text font-size="54" x="453.08725" y="-228.69487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Lisa Gwilliam">
+            Lisa Gwilliam
+        </text>
+        <text font-size="54" x="1133.6932" y="-722.9164" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Ray Sweeten">
+            Ray Sweeten
+        </text>
+        <text font-size="90" x="98.7337" y="2260.011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Will Pappenheimer">
+            Will Pappenheimer
+        </text>
+        <text font-size="50" x="-480.13626" y="-1334.311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Shane Mecklenburger">
+            Shane Mecklenburger
+        </text>
+        <text font-size="96" x="217.28851" y="1432.6852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Jason Eppink">
+            Jason Eppink
+        </text>
+        <text font-size="91" x="-308.61002" y="1418.3848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Rees">
+            Rees
+        </text>
+        <text font-size="66" x="1369.0643" y="-303.60593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Walid Raad">
+            Walid Raad
+        </text>
+        <text font-size="61" x="-1287.1296" y="-351.0322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Sara Ludy">
+            Sara Ludy
+        </text>
+        <text font-size="62" x="-1532.4072" y="1002.90955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Jim Shaw">
+            Jim Shaw
+        </text>
+        <text font-size="79" x="1209.684" y="610.2391" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Ingo Günther">
+            Ingo Günther
+        </text>
+        <text font-size="116" x="-813.91425" y="598.6625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Carla">
+            Carla
+        </text>
+        <text font-size="95" x="-58.562244" y="1838.8511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Kristin Lucas">
+            Kristin Lucas
+        </text>
+        <text font-size="70" x="-1323.2292" y="1838.8136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Miao Jiaxin">
+            Miao Jiaxin
+        </text>
+        <text font-size="198" x="-1262.8999" y="567.39514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Claudia">
+            Claudia
+        </text>
+        <text font-size="146" x="-1049.2865" y="1012.6262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Kurt">
+            Kurt
+        </text>
+        <text font-size="58" x="-1012.6219" y="-1338.329" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Joe Bochynski">
+            Joe Bochynski
+        </text>
+        <text font-size="58" x="-160.26723" y="-2228.1584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Nicole Reber">
+            Nicole Reber
+        </text>
+        <text font-size="58" x="-1143.3638" y="-1928.3994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Ross Simonini">
+            Ross Simonini
+        </text>
+        <text font-size="58" x="-1492.7455" y="-1644.7759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Anastasia Ax">
+            Anastasia Ax
+        </text>
+        <text font-size="58" x="-292.4063" y="-1786.6162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Rachel Stern">
+            Rachel Stern
+        </text>
+        <text font-size="68" x="-2060.868" y="-847.94434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Kate Shin">
+            Kate Shin
+        </text>
+        <text font-size="58" x="2151.4607" y="609.7016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Moishe Mana">
+            Moishe Mana
+        </text>
+        <text font-size="67" x="980.85675" y="1975.9453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Hyperallergic">
+            Hyperallergic
+        </text>
+        <text font-size="56" x="1244.8606" y="1388.7911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Veken Gueyikian">
+            Veken Gueyikian
+        </text>
+        <text font-size="56" x="1389.6937" y="1797.4828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Hrag Vartanian">
+            Hrag Vartanian
+        </text>
+        <text font-size="91" x="-1383.9276" y="105.60672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Bitforms">
+            Bitforms
+        </text>
+        <text font-size="118" x="-939.43884" y="78.18683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Transfer">
+            Transfer
+        </text>
+        <text font-size="128" x="-543.80927" y="1828.1553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Postmasters">
+            Postmasters
+        </text>
+        <text font-size="178" x="1011.3027" y="-1499.3136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="The Kitchen">
+            The Kitchen
+        </text>
+        <text font-size="70" x="-768.0048" y="-1702.1145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Black And White Gallery">
+            Black And White Gallery
+        </text>
+        <text font-size="61" x="-691.4181" y="-928.65204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Reverse Space">
+            Reverse Space
+        </text>
+        <text font-size="95" x="-401.1498" y="2249.354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="19">
+            Joe McKay
+        </text>
+        <text font-size="55" x="796.6703" y="1515.0491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="The Wild Project">
+            The Wild Project
+        </text>
+        <text font-size="59" x="641.3474" y="-667.26324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Microscope Gallery">
+            Microscope Gallery
+        </text>
+        <text font-size="98" x="-1758.7576" y="-302.10272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Waterfall Mansion">
+            Waterfall Mansion
+        </text>
+        <text font-size="50" x="1803.2872" y="-397.29077" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="23">
+            PS1
+        </text>
+        <text font-size="62" x="441.6796" y="1802.131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="The Whitney">
+            The Whitney
+        </text>
+        <text font-size="64" x="984.5068" y="1024.1838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="MOMI">
+            MOMI
+        </text>
+        <text font-size="96" x="-2003.8887" y="1034.3047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="The New Museum">
+            The New Museum
+        </text>
+        <text font-size="64" x="-2183.4568" y="563.2042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="NewInc">
+            NewInc
+        </text>
+        <text font-size="62" x="523.6903" y="1093.9277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Flux Factory">
+            Flux Factory
+        </text>
+        <text font-size="95" x="-1831.4885" y="159.02939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Eyebeam">
+            Eyebeam
+        </text>
+        <text font-size="62" x="-2197.7605" y="-404.8127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Roddy Shrock">
+            Roddy Shrock
+        </text>
+        <text font-size="62" x="-2256.3867" y="64.146774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Laura Weizenbach">
+            Laura Weizenbach
+        </text>
+        <text font-size="50" x="-344.8378" y="-596.5014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Cooper Hewitt">
+            Cooper Hewitt
+        </text>
+        <text font-size="102" x="1802.1858" y="84.44346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="MOMA">
+            MOMA
+        </text>
+        <text font-size="59" x="1983.3629" y="1030.992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="ICP">
+            ICP
+        </text>
+        <text font-size="73" x="2235.1904" y="170.35738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Mana Contemporary">
+            Mana Contemporary
+        </text>
+        <text font-size="61" x="-24.774843" y="1043.8911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="William Patterson University">
+            William Patterson University
+        </text>
+        <text font-size="128" x="-1283.1084" y="1421.21" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="SAIC">
+            SAIC
+        </text>
+        <text font-size="70" x="-1738.8802" y="1464.2678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="David">
+            David
+        </text>
+        <text font-size="70" x="-916.5563" y="2065.1082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Tiffany">
+            Tiffany
+        </text>
+        <text font-size="56" x="-9.273263" y="-191.9455" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Bloomberg">
+            Bloomberg
+        </text>
+        <text font-size="56" x="-1427.6104" y="-1184.161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Angelo, Gordon &amp; Co.">
+            Angelo, Gordon&amp; Co.
+        </text>
+        <text font-size="56" x="-1856.7726" y="-1279.8153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="Wemi:t LLC">
+            Wemi:t LLC
+        </text>
+        <text font-size="100" x="242.58652" y="684.7911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="0">
+            Bryce Wolkowitz
+        </text>
+        <text font-size="63" x="-29.578682" y="271.79053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="1">
+            Stephen Wilkes
+        </text>
+        <text font-size="53" x="715.53595" y="630.2868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="2">
+            James Welling
+        </text>
+        <text font-size="58" x="895.4473" y="187.75665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="3">
+            David Zwirner
+        </text>
+        <text font-size="69" x="1354.7112" y="160.4184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="4">
+            Donald Judd
+        </text>
+        <text font-size="85" x="198.8291" y="-1830.9656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="5">
+            Lucinda Childs
+        </text>
+        <text font-size="85" x="1557.7333" y="-1589.5354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="6">
+            Tony Conrad
+        </text>
+        <text font-size="85" x="348.84912" y="-2227.03" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="7">
+            Charles Gaines
+        </text>
+        <text font-size="85" x="369.42004" y="-1086.441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="8">
+            Jacob Kassay
+        </text>
+        <text font-size="85" x="1604.1771" y="-804.63635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="9">
+            Agnieszka Kurant
+        </text>
+        <text font-size="85" x="754.6324" y="-2030.9827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="10">
+            Zoe Leonard
+        </text>
+        <text font-size="85" x="1188.4733" y="-1908.7488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="11">
+            Mary Lucier
+        </text>
+        <text font-size="85" x="560.8349" y="-1558.3091" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="12">
+            Vera Molnar
+        </text>
+        <text font-size="85" x="834.1447" y="-1093.0603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="13">
+            Carlota Fay Schoolman
+        </text>
+        <text font-size="101" x="2090.8833" y="-800.1358" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="14">
+            Richard Serra
+        </text>
+        <text font-size="85" x="38.248226" y="-1412.3944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="15">
+            Paul Sietsema
+        </text>
+        <text font-size="85" x="1861.2378" y="-1224.123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="16">
+            Laurie Spiegel
+        </text>
+        <text font-size="85" x="1340.8507" y="-1175.7666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="17">
+            Cheyney Thompson
+        </text>
+        <text font-size="200" x="-592.86847" y="1085.7649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="18">
+            LISA
+        </text>
+        <text font-size="72" x="-837.6985" y="-438.80807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica" class="22">
+            Alfredo
+        </text>
+    </g>
+</svg>

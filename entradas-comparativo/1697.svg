@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkpad (http://www.taptrix.com/) --><svg xmlns:inkpad="http://taptrix.com/inkpad/svg_extensions" height="4096pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="4096pt" version="1.1" viewBox="0,0,4096,4096">
+<metadata>
+<inkpad:thumbnail xlink:href="data:image/jpeg;base64,
+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"/>
+</metadata>
+<metadata>
+<inkpad:setting key="RulersVisible" value="0"/>
+<inkpad:setting key="GridSpacing" value="64"/>
+<inkpad:setting key="Units" value="Pixels"/>
+<inkpad:setting key="DynamicGuides" value="0"/>
+<inkpad:setting key="SnapToPoints" value="0"/>
+<inkpad:setting key="SnapToGrid" value="1"/>
+<inkpad:setting key="ShowGrid" value="0"/>
+<inkpad:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer" inkpad:layerName="Layer 1" visibility="hidden">
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2048L3840+2048" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+1280L3840+1280" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+512L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3072+3584L3072+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M2304+3584L2304+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M1536+3584L1536+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3840+3584L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path d="M768+512L768+3584L3840+3584" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3840+3648L3840+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3072+3648L3072+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M2304+3648L2304+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M1536+3648L1536+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2816L832+2816" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2048L832+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+1280L832+1280" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+512L832+512" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 512 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="10" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 1280 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="30" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2816 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[30]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="40" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 3584 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[40]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 3465)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2816)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[2]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="4" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2057)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[4]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="6" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 1289)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[6]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="8" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 521)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[8]]></tspan>
+</text>
+</g>
+<g id="Layer_2" inkpad:layerName="Layer 1" visibility="hidden">
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2048L3840+2048" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+1280L3840+1280" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+512L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3072+3584L3072+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M2304+3584L2304+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M1536+3584L1536+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3840+3584L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path d="M768+512L768+3584L3840+3584" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3840+3648L3840+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3072+3648L3072+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M2304+3648L2304+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M1536+3648L1536+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2816L832+2816" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2048L832+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+1280L832+1280" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+512L832+512" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 512 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="1" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 1280 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[1]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="3" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2816 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[3]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="4" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 3584 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[4]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 3465)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="5" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2816)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[5]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="10" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2057)">
+<tspan x="192" y="97" textLength="111.2">
+<![CDATA[10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="15" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 1289)">
+<tspan x="192" y="97" textLength="111.2">
+<![CDATA[15]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="20" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 521)">
+<tspan x="192" y="97" textLength="111.2">
+<![CDATA[20]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2048 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[2]]></tspan>
+</text>
+</g>
+<g id="Layer_3" inkpad:layerName="Layer 1" visibility="hidden">
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2048L3840+2048" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+1280L3840+1280" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+512L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3072+3584L3072+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M2304+3584L2304+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M1536+3584L1536+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3840+3584L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path d="M768+512L768+3584L3840+3584" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3840+3648L3840+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3072+3648L3072+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M2304+3648L2304+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M1536+3648L1536+3520" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2816L832+2816" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2048L832+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+1280L832+1280" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+512L832+512" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 512 3712)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="10" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 1280 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="30" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2816 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[30]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="40" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 3584 3712)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[40]]></tspan>
+</text>
+</g>
+<g id="Layer_4" inkpad:layerName="Layer 1">
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+3584L3840+3584" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+1280L3840+1280" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+512L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3072+3584L3072+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M2304+3584L2304+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M1536+3584L1536+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3840+3584L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path d="M768+512L768+3584L768+3584" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3840+2112L3840+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3072+2112L3072+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M2304+2112L2304+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M1536+2112L1536+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2816L832+2816" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2048L832+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+1280L832+1280" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+512L832+512" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 640 2112)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="10" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 1280 2112)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="30" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2816 2112)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[30]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="40" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 3584 2112)">
+<tspan x="256" y="97" textLength="111.2">
+<![CDATA[40]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="-4" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 3465)">
+<tspan x="192" y="97" textLength="90.8">
+<![CDATA[-4]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="-2" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2816)">
+<tspan x="192" y="97" textLength="90.8">
+<![CDATA[-2]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2057)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 1289)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[2]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="4" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 521)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[4]]></tspan>
+</text>
+<path d="M768+2048L3840+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_5" inkpad:layerName="Layer 1" visibility="hidden">
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+3584L3840+3584" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+1280L3840+1280" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M768+512L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3072+3584L3072+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M2304+3584L2304+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M1536+3584L1536+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path stroke="#0b00ff" stroke-opacity="0.253219" stroke-width="16" d="M3840+3584L3840+512" fill="none" stroke-linecap="square" opacity="1"/>
+<path d="M768+512L768+3584L768+3584" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3840+2112L3840+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M3072+2112L3072+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M2304+2112L2304+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M1536+2112L1536+1984" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2816L832+2816" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+2048L832+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+1280L832+1280" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path d="M704+512L832+512" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 640 2112)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="1" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 1280 2112)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[1]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="3" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2816 2112)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[3]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="4" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 3584 2112)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[4]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="-20" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 3456)">
+<tspan x="192" y="97" textLength="146.4">
+<![CDATA[-20]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="-10" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2816)">
+<tspan x="192" y="97" textLength="146.4">
+<![CDATA[-10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="0" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 2057)">
+<tspan x="192" y="97" textLength="55.6">
+<![CDATA[0]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="10" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 1280)">
+<tspan x="192" y="97" textLength="111.2">
+<![CDATA[10]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="20" fill="#000000" font-size="100" inkpad:width="384" opacity="1" transform="matrix(1 0 0 1 384 521)">
+<tspan x="192" y="97" textLength="111.2">
+<![CDATA[20]]></tspan>
+</text>
+<path d="M768+2048L3840+2048" stroke="#000000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<path stroke="#1600b3" stroke-width="32" d="M768+2752L3840+2752" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="68"/>
+<path stroke="#b30081" stroke-width="32" d="M768+1344L3840+1344" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="68"/>
+<path stroke="#2db300" stroke-width="32" d="M768+1280L2304+1280L2304+2048L3840+2048" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="82,51"/>
+<text x="0" font-family="'HelveticaNeue-Thin'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="100" inkpad:width="512" opacity="1" transform="matrix(1 0 0 1 2048 2121)">
+<tspan x="256" y="97" textLength="55.6">
+<![CDATA[2]]></tspan>
+</text>
+<path stroke="#b30000" stroke-width="32" d="M768+2880L2176+2880L2560+2432L3840+2048" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="68"/>
+<path stroke="#00c1ff" stroke-width="32" d="M768+2816L2304+2816L2304+2048L3840+2048" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100,100"/>
+</g>
+<g id="Layer_6" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="s&#x20;[m]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="429.8">
+<![CDATA[s [m]]]></tspan>
+</text>
+<path d="M768+2560L3840+2560" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_7" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="s&#x20;[m]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="429.8">
+<![CDATA[s [m]]]></tspan>
+</text>
+<path d="M768+2560L3840+1280" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_8" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="s&#x20;[m]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="429.8">
+<![CDATA[s [m]]]></tspan>
+</text>
+<path d="M768+2560C2304+2560+3200+1792+3840+896" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_9" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="v&#x20;[m/s]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="596.4">
+<![CDATA[v [m/s]]]></tspan>
+</text>
+<path d="M768+1664L3840+1664" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_10" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="v&#x20;[m/s]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="596.4">
+<![CDATA[v [m/s]]]></tspan>
+</text>
+<path d="M768+3200L3840+1664" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_11" inkpad:layerName="Layer 2">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 2112)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="a&#x20;[m/s&#x20;]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="659.4">
+<![CDATA[a [m/s ]]]></tspan>
+</text>
+<path d="M768+2048L1152+2048L1152+1280L1536+1280L1536+2048L2048+2048L2048+2816L2688+2816L2688+2048L3072+2048L3072+768L3840+768L3840+2048" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="89" inkpad:width="256" opacity="1" transform="matrix(1 0 0 1 498.247 1581.84)">
+<tspan x="128" y="85" textLength="49.484">
+<![CDATA[2]]></tspan>
+</text>
+</g>
+<g id="Layer_12" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="v&#x20;[m/s]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="596.4">
+<![CDATA[v [m/s]]]></tspan>
+</text>
+<path stroke="#b30000" stroke-width="32" d="M768+1728L2496+1728L2752+3328L3840+3328" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#a5b300" stroke-width="32" d="M768+1856L2688+1856L2880+1472L3840+1472" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#00b319" stroke-width="32" d="M768+1600L1536+1600L2304+2112L2752+2112L3584+2816L3840+2816" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+</g>
+<g id="Layer_13" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 768 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<path d="M768+3584C768+3584+2176-2816+3840+3584" stroke="#b30000" stroke-width="32" stroke-linecap="square" fill="none" opacity="1"/>
+</g>
+<g id="Layer_14" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 1152 2112)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="a&#x20;[m/s&#x20;]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="659.4">
+<![CDATA[a [m/s ]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="2" fill="#000000" font-size="89" inkpad:width="256" opacity="1" transform="matrix(1 0 0 1 498.247 1581.84)">
+<tspan x="128" y="85" textLength="49.484">
+<![CDATA[2]]></tspan>
+</text>
+</g>
+<g id="Layer_15" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="3072" opacity="1" transform="matrix(1 0 0 1 1152 3712)">
+<tspan x="1536" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="v&#x20;[m/s]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="596.4">
+<![CDATA[v [m/s]]]></tspan>
+</text>
+<path stroke="#b30000" stroke-width="32" d="M768+3456L2240+512L3840+512" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#a5b300" stroke-width="32" d="M768+1664L3072+1664L3840+1664" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#00b319" stroke-width="32" d="M768+3584L3840+512" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#0030b3" stroke-width="32" d="M768+3584L2304+512L2304+3584L3840+3584" fill="none" stroke-linecap="square" opacity="1" stroke-linejoin="round" stroke-dasharray="100"/>
+</g>
+<g id="Layer_16" inkpad:layerName="Layer 2" visibility="hidden">
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="t&#x20;[s]" fill="#000000" font-size="200" inkpad:width="2432" opacity="1" transform="matrix(1 0 0 1 1408 3712)">
+<tspan x="1216" y="190" textLength="322.2">
+<![CDATA[t [s]]]></tspan>
+</text>
+<text x="0" font-family="'HelveticaNeue'" y="0" text-anchor="middle" inkpad:text="s&#x20;[m]" fill="#000000" font-size="200" inkpad:width="768" opacity="1" transform="matrix(1 0 0 1 0 1558)">
+<tspan x="384" y="190" textLength="429.8">
+<![CDATA[s [m]]]></tspan>
+</text>
+<path stroke="#a5b300" stroke-width="32" d="M768+1984L2304+1984L3840+3584" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#0030b3" stroke-width="32" d="M768+2112L2304+2112L2304+3584L3840+3584" fill="none" stroke-linecap="square" opacity="1" stroke-linejoin="round" stroke-dasharray="38,65"/>
+<path stroke="#b30000" stroke-width="30" d="M768+2048C1664+2048+2112+2944+2304+3584C3008+3584+3840+3584+3840+3584" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="100"/>
+<path stroke="#00b319" stroke-width="32" d="M768+512C1408+512+2176+2112+2304+3584C3008+3584+3840+3584+3840+3584" fill="none" stroke-linecap="square" opacity="1" stroke-dasharray="11,75,23,79"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 820 920" enable-background="new 0 0 820 920" xml:space="preserve">
+
+
+	<path fill="#216c2b" d="M820,920c-273.3,0-546.7,0-820,0c0-304.7,0-428.7,0-733.4C0-2.7,391.9,0,410,0c0,0,410-2.7,410,186.6
+		C820,491.3,820,615.3,820,920z"/>
+	<radialGradient id="SVGID_3_" cx="105.5666" cy="636.8942" r="186.2983" gradientTransform="matrix(4.5944 0 0 4.7423 -412.076 -2944.1804)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#38b449"/>
+		<stop  offset="1" style="stop-color:#32a241"/>
+	</radialGradient>
+	<path fill="url(#SVGID_3_)" d="M775,176.3C775,13.8,455.1,1,396.7,0.1C325,1,0,14.1,0,186.6c0,287.3,0,414,0,682.9
+		c258.3,0,516.7,0,775,0C775,581.5,775,464.3,775,176.3z"/>
+
+
+
+
+	<text text-anchor="middle" transform="matrix(0.9905 0 0 1 388.5625 715.5547)" fill="#dcedd7" font-family="'HelveticaNeue-CondensedBlack',sans-serif" font-weight="900" font-size="701.59">A</text>
+
+
+</svg>

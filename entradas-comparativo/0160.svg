@@ -1,0 +1,20 @@
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_2_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <linearGradient y2="0.8" x2="1" y1="0" x1="0" id="svg_6">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#eeeeee" offset="0.45"/>
+   <stop stop-color="#ffffff" offset="0.5"/>
+   <stop stop-color="#eeeeee" offset="0.55"/>
+   <stop stop-color="#ffffff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m24.81929,21.20483l-21.20483,214.93975l15.66265,224.09642l220.48192,12.04813l215.66266,-13.25299l15.66263,-219.2771l-15.66257,-220.48191l-219.27718,-12.04819l-211.3253,13.97591l0.00001,-0.00001z" id="svg_2" opacity="0.32" filter="url(#svg_2_blur)"/>
+  <rect id="svg_5" height="448.00001" width="444.99998" y="10" x="13.00002" stroke-opacity="0.8" stroke-linecap="null" stroke-linejoin="null" stroke="#d3d0c9" fill="url(#svg_6)"/>
+ </g>
+</svg>

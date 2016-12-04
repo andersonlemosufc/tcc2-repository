@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3400px" height="7960px" viewBox="0 0 3400 7960" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>for post</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="checkout-flow-ava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="for-post" sketch:type="MSArtboardGroup">
+            <text id="Address(es)-on-file-" sketch:type="MSTextLayer" font-family="Averta" font-size="59" font-weight="bold" fill="#282330">
+                <tspan x="133" y="177">Address(es) on file – Confirming address</tspan>
+            </text>
+            <path d="M2816.9536,1763 L2816.95364,6516.07451 L1675,6892.6875" id="Path-15" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <g id="branch-+-branch" sketch:type="MSLayerGroup" transform="translate(663.000000, 2324.000000)" stroke="#979797">
+                <g id="branch" transform="translate(1213.589145, 332.000000) scale(-1, 1) translate(-1213.589145, -332.000000) translate(744.089145, 207.000000)" stroke-width="2" stroke-linecap="square">
+                    <path d="M938.642474,0.631660575 L0.474012521,170.991417 L0.474012521,249.135294" id="Line" sketch:type="MSShapeGroup"></path>
+                    <path id="Line-decoration-1" d="M0.474012521,249.135294 L3.47401252,238.335294 L-2.52598748,238.335294 L0.474012521,249.135294 Z"></path>
+                </g>
+                <g id="branch" transform="translate(0.000000, 0.000000)">
+                    <path d="M742.145913,0.762493191 L742.145913,210.101559 L0.0530177087,401.238631 L0.0530177087,1465.43436 L371.099435,1609.00004 L371.099447,1730.04019" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path id="Line-decoration-1" d="M371.099447,1730.04019 L374.099446,1719.24019 L368.099446,1719.24019 L371.099447,1730.04019 Z" stroke-width="2" stroke-linecap="square"></path>
+                    <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(371.057682, 1724.042834) scale(1, -1) translate(-371.057682, -1724.042834) " points="371.057682 1716.04283 379.557682 1732.04283 362.557682 1732.04283 "></polygon>
+                </g>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(1074.000000, 3352.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-asks-customer-fo" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="82.0508652" y="163.726249">Bot asks </tspan>
+                    <tspan x="82.0508652" y="237.726249">customer for </tspan>
+                    <tspan x="82.0508652" y="311.726249">correct address</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(1058.000000, 1882.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-displays-Google-" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="75.9580493" y="138.329489">Bot displays </tspan>
+                    <tspan x="75.9580493" y="212.329489">Google address </tspan>
+                    <tspan x="75.9580493" y="286.329489">and asks if it’s </tspan>
+                    <tspan x="75.9580493" y="360.329489">correct</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(699.000000, 4576.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-tells-customer-a" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="65" y="145">Bot tells </tspan>
+                    <tspan x="65" y="219">customer </tspan>
+                    <tspan x="65" y="293">address has </tspan>
+                    <tspan x="65" y="367">been saved</tspan>
+                </text>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1389.000000, 3237.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(513.000000, 1274.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1369.000000, 1763.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1011.000000, 6119.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1004.000000, 4463.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(2346.500000, 4413.000000) scale(-1, 1) translate(-2346.500000, -4413.000000) translate(2338.000000, 3168.000000)" stroke="#979797">
+                <path d="M9,2.22044605e-16 L9,1376.27883" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M9,1376.27883 L12,1365.47883 L6,1365.47883 L9,1376.27883 Z" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 1373.000000) scale(1, -1) translate(-8.500000, -1373.000000) " points="8.5 1365 17 1381 0 1381 "></polygon>
+                <g id="Line-+-Triangle-3" transform="translate(0.000000, 1842.000000)">
+                    <g>
+                        <path d="M9,0 L9,646.608045" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                        <path id="Line-decoration-1" d="M9,646.608045 L12,635.808045 L6,635.808045 L9,646.608045 Z" stroke-width="2" stroke-linecap="square"></path>
+                        <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 640.000000) scale(1, -1) translate(-8.500000, -640.000000) " points="8.5 632 17 648 0 648 "></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1011.000000, 5016.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1011.000000, 5563.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(1055.000000, 1383.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="656.340322" height="379.431936"></rect>
+                <text id="Customer-says-addres" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="74" y="154">Customer says </tspan>
+                    <tspan x="74" y="228">address not on </tspan>
+                    <tspan x="74" y="302">file</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(201.000000, 833.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Customer-says-“New-a" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="69" y="138.329489">Customer says </tspan>
+                    <tspan x="69" y="212.329489">“New address” </tspan>
+                    <tspan x="69" y="286.329489">“Another </tspan>
+                    <tspan x="69" y="360.329489">address”</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(2461.000000, 1383.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="380"></rect>
+                <text id="Customer-says-addres" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="86" y="186">Customer says </tspan>
+                    <tspan x="86" y="260">address on file</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(697.000000, 4080.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="380"></rect>
+                <text id="Customer-says-addres" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="65" y="187">Customer says </tspan>
+                    <tspan x="65" y="261">address</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(1074.000000, 2799.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Customer-says-NO-or-" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="75.1436812" y="170.215815">Customer says </tspan>
+                    <tspan x="75.1436812" y="244.215815">NO or says it’s </tspan>
+                    <tspan x="75.1436812" y="318.215815">not correct</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(1991.000000, 2799.000000)">
+                <rect id="Rectangle-1" stroke="#ECEBEE" fill="#F7F7FA" sketch:type="MSShapeGroup" x="0" y="0" width="656.340322" height="379.328506"></rect>
+                <text id="Customer-says-YES" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#282330">
+                    <tspan x="80" y="185">Customer says </tspan>
+                    <tspan x="80" y="259">YES</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(698.000000, 5125.000000)">
+                <rect id="Rectangle-1" fill="#4F87FF" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-tells-agent-to-c" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="76.1900891" y="165.679846">Bot tells agent </tspan>
+                    <tspan x="76.1900891" y="239.679846">to correct the </tspan>
+                    <tspan x="76.1900891" y="313.679846">address in CRM</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(698.000000, 5679.000000)">
+                <rect id="Rectangle-1" fill="#75717C" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Agent-inputs-address" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="76.1900891" y="135.468699">Agent inputs </tspan>
+                    <tspan x="76.1900891" y="209.468699">address in CRM </tspan>
+                    <tspan x="76.1900891" y="283.468699">as personal </tspan>
+                    <tspan x="76.1900891" y="357.468699">address</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(698.000000, 6234.000000)">
+                <rect id="Rectangle-1" fill="#75717C" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="CRM-tells-bot-addres" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="76" y="149">CRM tells bot </tspan>
+                    <tspan x="76" y="223">address is </tspan>
+                    <tspan x="76" y="297">corrected and </tspan>
+                    <tspan x="76" y="371">added</tspan>
+                </text>
+            </g>
+            <path d="M1399.67167,3791 L1399.67167,3892.58147 L1034,3933" id="Path-15" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M2312.2937,5834 L2312.2937,6352.82812 L1675,6890.4375" id="Path-15" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(2008.000000, 5679.000000)">
+                <rect id="Rectangle-1" fill="#75717C" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-inputs-address-i" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="76.1900891" y="130.515102">Bot inputs </tspan>
+                    <tspan x="76.1900891" y="204.515102">address in CRM </tspan>
+                    <tspan x="76.1900891" y="278.515102">as personal </tspan>
+                    <tspan x="76.1900891" y="352.515102">address</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(2023.000000, 4576.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="440"></rect>
+                <text id="Bot-tells-customer-a" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="79" y="136">Bot tells </tspan>
+                    <tspan x="79" y="210">customer </tspan>
+                    <tspan x="79" y="284">address has </tspan>
+                    <tspan x="79" y="358">been saved</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(1773.000000, 466.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="438.436438"></rect>
+                <text id="Bot-asks-which-addre" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="62" y="140">Bot asks which </tspan>
+                    <tspan x="62" y="214">address to use </tspan>
+                    <tspan x="62" y="288">or add new </tspan>
+                    <tspan x="62" y="362">address</tspan>
+                </text>
+            </g>
+            <g id="Line-+-Triangle-3" sketch:type="MSLayerGroup" transform="translate(879.000000, 1006.000000)" stroke="#979797">
+                <path d="M1207.62636,9 L4,9" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M4,9 L14.8,12 L14.8,6 L4,9 Z" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 9.000000) scale(-1, 1) rotate(-270.000000) translate(-8.500000, -9.000000) " points="8.5 1 17 17 0 17 "></polygon>
+            </g>
+            <g id="Rectangle-1-+-DM-greeting-to-perso-+-Rectangle-3-+-auto" sketch:type="MSLayerGroup" transform="translate(199.000000, 1383.000000)">
+                <rect id="Rectangle-1" fill="#6D21E8" sketch:type="MSShapeGroup" x="0" y="0" width="657" height="380"></rect>
+                <text id="Bot-asks-for-address" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" line-spacing="74" fill="#FFFFFF">
+                    <tspan x="82.0508652" y="173.726249">Bot asks for </tspan>
+                    <tspan x="82.0508652" y="247.726249">address</tspan>
+                </text>
+            </g>
+            <g id="branch-+-branch-+-Triangle-3-+-Triangle-3" sketch:type="MSLayerGroup" transform="translate(1377.000000, 906.000000)" stroke="#979797">
+                <g id="branch-+-branch" transform="translate(8.000000, 0.000000)" stroke-linecap="round" stroke-width="2" stroke-linejoin="bevel">
+                    <g id="branch" transform="translate(1052.469779, 225.000000) scale(-1, 1) translate(-1052.469779, -225.000000) translate(701.469779, 0.000000)">
+                        <path d="M701.818178,0.679086059 L701.818171,110.184071 L0.891102715,343.090826 L0.891102715,449.924958" id="Line" sketch:type="MSShapeGroup"></path>
+                        <path id="Line-decoration-1" d="M-2.10889728,439.124958 L0.891102715,449.924958 L3.89110272,439.124958"></path>
+                    </g>
+                    <g id="branch">
+                        <path d="M701.279145,0.679086059 L701.279138,110.184071 L0.35206932,343.090826 L0.35206932,449.924958" id="Line" sketch:type="MSShapeGroup"></path>
+                        <path id="Line-decoration-1" d="M-2.64793068,439.124958 L0.35206932,449.924958 L3.35206932,439.124958"></path>
+                    </g>
+                </g>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 446.000000) scale(1, -1) translate(-8.500000, -446.000000) " points="8.5 438 17 454 0 454 "></polygon>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(1410.500000, 446.000000) scale(1, -1) translate(-1410.500000, -446.000000) " points="1410.5 438 1419 454 1402 454 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(1396.000000, 2460.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.5596591,300.197058" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55965919,289.397058 L8.5596591,300.197058 L11.5596592,289.397058" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 294.000000) scale(1, -1) translate(-8.500000, -294.000000) " points="8.5 286 17 302 0 302 "></polygon>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(2336.000000, 2778.000000)" stroke="#979797" fill="#979797">
+                <polygon id="Triangle-3" sketch:type="MSShapeGroup" transform="translate(8.500000, 8.000000) scale(1, -1) translate(-8.500000, -8.000000) " points="8.5 0 17 16 0 16 "></polygon>
+            </g>
+            <g id="Line-+-Triangle-3" sketch:type="MSLayerGroup" transform="translate(1008.000000, 6674.000000)" stroke="#979797">
+                <path d="M0,0 L0,117.548686 L663.586683,214.826022 L663.586677,738.810675" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M663.586677,738.810675 L666.586677,728.010675 L660.586677,728.010674 L663.586677,738.810675 Z" stroke-width="2" stroke-linecap="square"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(663.500000, 735.000000) scale(1, -1) translate(-663.500000, -735.000000) " points="663.5 727 672 743 655 743 "></polygon>
+            </g>
+            <g id="Triangle-3-+-Line-+-Triangle-3" sketch:type="MSLayerGroup" transform="translate(394.000000, 2533.000000)" stroke="#979797">
+                <g>
+                    <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(269.500000, 2252.000000) scale(1, -1) rotate(-270.000000) translate(-269.500000, -2252.000000) " points="269.5 2244 278 2260 261 2260 "></polygon>
+                    <g id="Line-+-Triangle-3" stroke-width="2" stroke-linecap="square">
+                        <path d="M1010.78592,0.265376167 L0.778841112,152.005421 L0.778841112,2251.39594 L274.866604,2251.39594" id="Line" sketch:type="MSShapeGroup"></path>
+                        <path id="Line-decoration-1" d="M274.866604,2251.39594 L264.066604,2248.39594 L264.066604,2254.39594 L274.866604,2251.39594 Z"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(133.000000, 2961.000000)">
+                <rect id="Rectangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="507.933928" height="265.689182"></rect>
+                <text id="No-answer-after-2-mi" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" sketch:alignment="middle" line-spacing="74" fill="#282330">
+                    <tspan x="76.1616211" y="129">No answer </tspan>
+                    <tspan x="73" y="203">after 2 min</tspan>
+                </text>
+            </g>
+            <g id="Rectangle-1-+-Client-integrated-@l" sketch:type="MSLayerGroup" transform="translate(1344.000000, 7417.000000)">
+                <rect id="Rectangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="703.293131" height="296.236683"></rect>
+                <text id="continue-with-flow--" sketch:type="MSTextLayer" font-family="Averta" font-size="70" font-weight="normal" sketch:alignment="middle" line-spacing="74" fill="#282330">
+                    <tspan x="111.74297" y="90.5126953">continue with </tspan>
+                    <tspan x="118.766896" y="164.512695">flow  (display </tspan>
+                    <tspan x="200.234181" y="238.512695">options)</tspan>
+                </text>
+            </g>
+            <g id="sm-arrow" sketch:type="MSLayerGroup" transform="translate(907.500000, 1570.500000) scale(-1, -1) rotate(-270.000000) translate(-907.500000, -1570.500000) translate(899.000000, 1523.000000)" stroke="#979797">
+                <path d="M8.55966165,0.197058375 L8.55966088,90.1970584" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" sketch:type="MSShapeGroup"></path>
+                <path id="Line-decoration-1" d="M5.55966097,79.3970583 L8.55966088,90.1970584 L11.559661,79.3970584" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                <polygon id="Triangle-3" fill="#979797" sketch:type="MSShapeGroup" transform="translate(8.500000, 87.000000) scale(1, -1) translate(-8.500000, -87.000000) " points="8.5 79 17 95 0 95 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

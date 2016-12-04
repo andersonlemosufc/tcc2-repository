@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<title>uhSKRZ-A</title>
+<g fill="none">
+ <path d="M 0,250 H 100 M 500,250 H 400" stroke="#FF0000" stroke-width="120" />
+ <path d="M 0,250 H 100 M 500,250 H 400" stroke="#FFFF00" stroke-width="40" />
+ <path d="M 125,0 V 500 M 375,0 V 500" stroke="#80A080" stroke-width="50" />
+ <path d="M 250,0 V 500" stroke="#003399" stroke-width="100" />
+</g>
+</svg>
